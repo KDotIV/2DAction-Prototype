@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8269915144697878722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: 560f1f39-19b4-4552-9249-57d2d7e31945
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: You find yourself within a room full of blood.
+  children:
+  - 7ef64e4b-7dad-498e-a5d5-7c49f19ecd3b
+  rect:
+    serializedVersion: 2
+    x: 876
+    y: 151
+    width: 200
+    height: 150
+--- !u!114 &-4844162538242222037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: 4e280738-8493-4784-8e2e-0750b21089b0
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: Welcome to DustyArcadeProject Prototype!
+  children:
+  - f9c58467-c530-455e-8e4f-b3445e46b34e
+  rect:
+    serializedVersion: 2
+    x: 55
+    y: 150
+    width: 200
+    height: 150
+--- !u!114 &-3183725305649276022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: 202c7c9f-540b-47a3-afb7-5f6df16ca4a1
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: This is primarily used to pitch our initial idea on how we'd like to design
+    the game
+  children:
+  - 560f1f39-19b4-4552-9249-57d2d7e31945
+  rect:
+    serializedVersion: 2
+    x: 555
+    y: 150
+    width: 200
+    height: 150
+--- !u!114 &-431669461247105199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: 7ef64e4b-7dad-498e-a5d5-7c49f19ecd3b
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: You peer over at the desk across the room, could be a clue...
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1126
+    y: 151
+    width: 200
+    height: 150
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d0699b8f4a0ae4e82954c6bfba5546, type: 3}
+  m_Name: BloodyRoomLanding
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -4844162538242222037}
+  - {fileID: 8366677545343693916}
+  - {fileID: -3183725305649276022}
+  - {fileID: -8269915144697878722}
+  - {fileID: -431669461247105199}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &8366677545343693916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: f9c58467-c530-455e-8e4f-b3445e46b34e
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: (Expect Bugs)
+  children:
+  - 202c7c9f-540b-47a3-afb7-5f6df16ca4a1
+  rect:
+    serializedVersion: 2
+    x: 305
+    y: 150
+    width: 200
+    height: 150

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6445988244208427224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156d2c9a04d529444a98e05bb45763a0, type: 3}
+  m_Name: 59175ab8-a0c7-4b83-9049-a8f3cac979f2
+  m_EditorClassIdentifier: 
+  speaker: {fileID: 0}
+  speakerName: 
+  isPlayer: 0
+  text: You see impaled archeologist littered throughout the camp. Traces of heavy
+    magic residue can also be seen
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 55
+    y: 150
+    width: 200
+    height: 150
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d0699b8f4a0ae4e82954c6bfba5546, type: 3}
+  m_Name: DigSiteClue02
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -6445988244208427224}
+  newNodeOffset: {x: 250, y: 0}

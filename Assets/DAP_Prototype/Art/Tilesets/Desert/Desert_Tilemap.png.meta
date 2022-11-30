@@ -1,0 +1,4172 @@
+fileFormatVersion: 2
+guid: 57530b5bf8733d64fb2e92f0c0011784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8283339625848112862
+    second: Desert_Tilemap_0
+  - first:
+      213: 5608365197879354278
+    second: Desert_Tilemap_1
+  - first:
+      213: 6598973328738944586
+    second: Desert_Tilemap_2
+  - first:
+      213: 7496357329295157195
+    second: Desert_Tilemap_3
+  - first:
+      213: -6936188556544143797
+    second: Desert_Tilemap_4
+  - first:
+      213: -5757050414418183141
+    second: Desert_Tilemap_5
+  - first:
+      213: -8942039914154468443
+    second: Desert_Tilemap_6
+  - first:
+      213: 7671528326002882738
+    second: Desert_Tilemap_7
+  - first:
+      213: -2062143351591780155
+    second: Desert_Tilemap_8
+  - first:
+      213: -7043376672869351310
+    second: Desert_Tilemap_9
+  - first:
+      213: 8273241782225103051
+    second: Desert_Tilemap_10
+  - first:
+      213: -2512698400962503548
+    second: Desert_Tilemap_11
+  - first:
+      213: -5177373070682385659
+    second: Desert_Tilemap_12
+  - first:
+      213: -3162199455827336079
+    second: Desert_Tilemap_13
+  - first:
+      213: -3832824316518367584
+    second: Desert_Tilemap_14
+  - first:
+      213: -3768779525648956154
+    second: Desert_Tilemap_15
+  - first:
+      213: 4604274007447284437
+    second: Desert_Tilemap_16
+  - first:
+      213: -3580715650933063309
+    second: Desert_Tilemap_17
+  - first:
+      213: -6480585374662773936
+    second: Desert_Tilemap_18
+  - first:
+      213: -1458641506368147835
+    second: Desert_Tilemap_19
+  - first:
+      213: -6735540999638668893
+    second: Desert_Tilemap_20
+  - first:
+      213: 6526830626210832264
+    second: Desert_Tilemap_21
+  - first:
+      213: 528956250068662849
+    second: Desert_Tilemap_22
+  - first:
+      213: -8073599284609766387
+    second: Desert_Tilemap_23
+  - first:
+      213: 3003222979982113727
+    second: Desert_Tilemap_24
+  - first:
+      213: -4925822345748733314
+    second: Desert_Tilemap_25
+  - first:
+      213: -7955631100597416680
+    second: Desert_Tilemap_26
+  - first:
+      213: 4828311933087888245
+    second: Desert_Tilemap_27
+  - first:
+      213: -8095972540203083000
+    second: Desert_Tilemap_28
+  - first:
+      213: -7474608818839152269
+    second: Desert_Tilemap_29
+  - first:
+      213: -3722594988519908305
+    second: Desert_Tilemap_30
+  - first:
+      213: 3158043823012510829
+    second: Desert_Tilemap_31
+  - first:
+      213: -7032538301595126173
+    second: Desert_Tilemap_32
+  - first:
+      213: -6867256211838159091
+    second: Desert_Tilemap_33
+  - first:
+      213: -2179641494162178543
+    second: Desert_Tilemap_34
+  - first:
+      213: -3696948518869019599
+    second: Desert_Tilemap_35
+  - first:
+      213: -560641059057556187
+    second: Desert_Tilemap_36
+  - first:
+      213: 4969856876201813549
+    second: Desert_Tilemap_37
+  - first:
+      213: 3020190509801983706
+    second: Desert_Tilemap_38
+  - first:
+      213: -6387858744326599777
+    second: Desert_Tilemap_39
+  - first:
+      213: 5285809454599796040
+    second: Desert_Tilemap_40
+  - first:
+      213: 677048773187897470
+    second: Desert_Tilemap_41
+  - first:
+      213: 1114578130209506411
+    second: Desert_Tilemap_42
+  - first:
+      213: -4463260482091150146
+    second: Desert_Tilemap_43
+  - first:
+      213: -5901092026947068420
+    second: Desert_Tilemap_44
+  - first:
+      213: 6908846720512907311
+    second: Desert_Tilemap_45
+  - first:
+      213: 8388696703923065434
+    second: Desert_Tilemap_46
+  - first:
+      213: -3332006105758151353
+    second: Desert_Tilemap_47
+  - first:
+      213: 2491223883975514683
+    second: Desert_Tilemap_48
+  - first:
+      213: 6707662380858846594
+    second: Desert_Tilemap_49
+  - first:
+      213: -7781266870261901329
+    second: Desert_Tilemap_50
+  - first:
+      213: -4393284564458003901
+    second: Desert_Tilemap_51
+  - first:
+      213: 9039740722591499768
+    second: Desert_Tilemap_52
+  - first:
+      213: 5027696627649576547
+    second: Desert_Tilemap_53
+  - first:
+      213: -4273067338793855013
+    second: Desert_Tilemap_54
+  - first:
+      213: 7454438420153194375
+    second: Desert_Tilemap_55
+  - first:
+      213: -3601752059679101914
+    second: Desert_Tilemap_56
+  - first:
+      213: -3918582473080510392
+    second: Desert_Tilemap_57
+  - first:
+      213: -7207625272416031971
+    second: Desert_Tilemap_58
+  - first:
+      213: 1836249307579886631
+    second: Desert_Tilemap_59
+  - first:
+      213: 8591667812597670907
+    second: Desert_Tilemap_60
+  - first:
+      213: 5302962019011296758
+    second: Desert_Tilemap_61
+  - first:
+      213: 366309737512502668
+    second: Desert_Tilemap_62
+  - first:
+      213: 1894432275363336463
+    second: Desert_Tilemap_63
+  - first:
+      213: -336347937529676758
+    second: Desert_Tilemap_64
+  - first:
+      213: -6191089379888382421
+    second: Desert_Tilemap_65
+  - first:
+      213: 3799484717447748397
+    second: Desert_Tilemap_66
+  - first:
+      213: -1935653315850826817
+    second: Desert_Tilemap_67
+  - first:
+      213: -7260792311117206714
+    second: Desert_Tilemap_68
+  - first:
+      213: 7046983268071744555
+    second: Desert_Tilemap_69
+  - first:
+      213: -6352296388667275045
+    second: Desert_Tilemap_70
+  - first:
+      213: -5829712952173434009
+    second: Desert_Tilemap_71
+  - first:
+      213: 3021075726441178449
+    second: Desert_Tilemap_72
+  - first:
+      213: -730592526780758325
+    second: Desert_Tilemap_73
+  - first:
+      213: 5472739156274779987
+    second: Desert_Tilemap_74
+  - first:
+      213: 2921969315911422565
+    second: Desert_Tilemap_75
+  - first:
+      213: -7197897413581902102
+    second: Desert_Tilemap_76
+  - first:
+      213: 1567379354661541591
+    second: Desert_Tilemap_77
+  - first:
+      213: 8658062958920831794
+    second: Desert_Tilemap_78
+  - first:
+      213: -2700461382339182006
+    second: Desert_Tilemap_79
+  - first:
+      213: -5257485843447315563
+    second: Desert_Tilemap_80
+  - first:
+      213: -2937244367945653584
+    second: Desert_Tilemap_81
+  - first:
+      213: 2191318116562476947
+    second: Desert_Tilemap_82
+  - first:
+      213: 8976811129571083905
+    second: Desert_Tilemap_83
+  - first:
+      213: -1623716543121392425
+    second: Desert_Tilemap_84
+  - first:
+      213: 8939860175029869798
+    second: Desert_Tilemap_85
+  - first:
+      213: -7607426821627630046
+    second: Desert_Tilemap_86
+  - first:
+      213: -6176644764058671468
+    second: Desert_Tilemap_87
+  - first:
+      213: -6266097601338178353
+    second: Desert_Tilemap_88
+  - first:
+      213: 6673099419572728014
+    second: Desert_Tilemap_89
+  - first:
+      213: -515287606719118182
+    second: Desert_Tilemap_90
+  - first:
+      213: -4604015706628319943
+    second: Desert_Tilemap_91
+  - first:
+      213: 5876346971240677182
+    second: Desert_Tilemap_92
+  - first:
+      213: -8513517520332239602
+    second: Desert_Tilemap_93
+  - first:
+      213: -3751264838718094457
+    second: Desert_Tilemap_94
+  - first:
+      213: 6350093012686701969
+    second: Desert_Tilemap_95
+  - first:
+      213: 3979543831124366987
+    second: Desert_Tilemap_96
+  - first:
+      213: 5382867414394583126
+    second: Desert_Tilemap_97
+  - first:
+      213: 120484878479682666
+    second: Desert_Tilemap_98
+  - first:
+      213: -9100370800673031877
+    second: Desert_Tilemap_99
+  - first:
+      213: -2528669723884439549
+    second: Desert_Tilemap_100
+  - first:
+      213: -901648405712645593
+    second: Desert_Tilemap_101
+  - first:
+      213: -2539550253482569517
+    second: Desert_Tilemap_102
+  - first:
+      213: -1734157403152381745
+    second: Desert_Tilemap_103
+  - first:
+      213: 3050270363441934589
+    second: Desert_Tilemap_104
+  - first:
+      213: 2048590737369965499
+    second: Desert_Tilemap_105
+  - first:
+      213: -2389607405908920887
+    second: Desert_Tilemap_106
+  - first:
+      213: 7876387227558763831
+    second: Desert_Tilemap_107
+  - first:
+      213: 1943104345138317378
+    second: Desert_Tilemap_108
+  - first:
+      213: 9009829709497138597
+    second: Desert_Tilemap_109
+  - first:
+      213: 6983972286378440586
+    second: Desert_Tilemap_110
+  - first:
+      213: -187290839071890349
+    second: Desert_Tilemap_111
+  - first:
+      213: -1747289117760134047
+    second: Desert_Tilemap_112
+  - first:
+      213: -6442153960880072014
+    second: Desert_Tilemap_113
+  - first:
+      213: 338010757569375395
+    second: Desert_Tilemap_114
+  - first:
+      213: 8024933510528731556
+    second: Desert_Tilemap_115
+  - first:
+      213: 4111732382408248833
+    second: Desert_Tilemap_116
+  - first:
+      213: -2506406737009208840
+    second: Desert_Tilemap_117
+  - first:
+      213: 4104820141662011662
+    second: Desert_Tilemap_118
+  - first:
+      213: -4045858776660068485
+    second: Desert_Tilemap_119
+  - first:
+      213: -7439159545424485561
+    second: Desert_Tilemap_120
+  - first:
+      213: 2740986517248504552
+    second: Desert_Tilemap_121
+  - first:
+      213: 6233192404817156097
+    second: Desert_Tilemap_122
+  - first:
+      213: -3361380872111875500
+    second: Desert_Tilemap_123
+  - first:
+      213: -8665703216654778885
+    second: Desert_Tilemap_124
+  - first:
+      213: 1168363644973888448
+    second: Desert_Tilemap_125
+  - first:
+      213: 7872573743537512904
+    second: Desert_Tilemap_126
+  - first:
+      213: 8251006868199901786
+    second: Desert_Tilemap_127
+  - first:
+      213: -6608360136090626887
+    second: Desert_Tilemap_128
+  - first:
+      213: -8849983196175251415
+    second: Desert_Tilemap_129
+  - first:
+      213: -1834828152182805323
+    second: Desert_Tilemap_130
+  - first:
+      213: 2890341688911814747
+    second: Desert_Tilemap_131
+  - first:
+      213: 3801271369925360103
+    second: Desert_Tilemap_132
+  - first:
+      213: 6068523920293507703
+    second: Desert_Tilemap_133
+  - first:
+      213: -1272636061706656133
+    second: Desert_Tilemap_134
+  - first:
+      213: -679748887501644525
+    second: Desert_Tilemap_135
+  - first:
+      213: 2549384191936241505
+    second: Desert_Tilemap_136
+  - first:
+      213: 8077147283958175874
+    second: Desert_Tilemap_137
+  - first:
+      213: 4887846121041076548
+    second: Desert_Tilemap_138
+  - first:
+      213: -2444494421402947048
+    second: Desert_Tilemap_139
+  - first:
+      213: -1321831846150532886
+    second: Desert_Tilemap_140
+  - first:
+      213: -4249697234801967773
+    second: Desert_Tilemap_141
+  - first:
+      213: 4522330785337419871
+    second: Desert_Tilemap_142
+  - first:
+      213: -3090671749900056279
+    second: Desert_Tilemap_143
+  - first:
+      213: -3656855712458964636
+    second: Desert_Tilemap_144
+  - first:
+      213: 8941943283126103045
+    second: Desert_Tilemap_145
+  - first:
+      213: 2016478539892513399
+    second: Desert_Tilemap_146
+  - first:
+      213: -1355132602769651794
+    second: Desert_Tilemap_147
+  - first:
+      213: 2641646156794717414
+    second: Desert_Tilemap_148
+  - first:
+      213: -3020929362121051921
+    second: Desert_Tilemap_149
+  - first:
+      213: 1322640696456932084
+    second: Desert_Tilemap_150
+  - first:
+      213: -1000216033142866015
+    second: Desert_Tilemap_151
+  - first:
+      213: -465445473680225053
+    second: Desert_Tilemap_152
+  - first:
+      213: 7014326557830277290
+    second: Desert_Tilemap_153
+  - first:
+      213: 4382940589746106828
+    second: Desert_Tilemap_154
+  - first:
+      213: -1841521621632274362
+    second: Desert_Tilemap_155
+  - first:
+      213: 290473070013192615
+    second: Desert_Tilemap_156
+  - first:
+      213: -5885153983676203072
+    second: Desert_Tilemap_157
+  - first:
+      213: 4665893768639736582
+    second: Desert_Tilemap_158
+  - first:
+      213: 5805079775984522216
+    second: Desert_Tilemap_159
+  - first:
+      213: -1766532093446897622
+    second: Desert_Tilemap_160
+  - first:
+      213: -5923024062734565380
+    second: Desert_Tilemap_161
+  - first:
+      213: 5756772380300688639
+    second: Desert_Tilemap_162
+  - first:
+      213: 2652402792774342358
+    second: Desert_Tilemap_163
+  - first:
+      213: 822116971838018901
+    second: Desert_Tilemap_164
+  - first:
+      213: 3873617376560014427
+    second: Desert_Tilemap_165
+  - first:
+      213: -655077306981652307
+    second: Desert_Tilemap_166
+  - first:
+      213: -6335455732386547624
+    second: Desert_Tilemap_167
+  - first:
+      213: -8076169161833144500
+    second: Desert_Tilemap_168
+  - first:
+      213: 2188480999845039601
+    second: Desert_Tilemap_169
+  - first:
+      213: 2617797290794288359
+    second: Desert_Tilemap_170
+  - first:
+      213: 531918130016447463
+    second: Desert_Tilemap_171
+  - first:
+      213: 5598367816859959332
+    second: Desert_Tilemap_172
+  - first:
+      213: -2809630681023810393
+    second: Desert_Tilemap_173
+  - first:
+      213: -5977948216888287437
+    second: Desert_Tilemap_174
+  - first:
+      213: 4964704273244232279
+    second: Desert_Tilemap_175
+  - first:
+      213: 8585030900895865779
+    second: Desert_Tilemap_176
+  - first:
+      213: -5334479138115858937
+    second: Desert_Tilemap_177
+  - first:
+      213: -3458226889487188889
+    second: Desert_Tilemap_178
+  - first:
+      213: -3358104363439148317
+    second: Desert_Tilemap_179
+  - first:
+      213: -532576568378242468
+    second: Desert_Tilemap_180
+  - first:
+      213: 7103747984805137205
+    second: Desert_Tilemap_181
+  - first:
+      213: -6997946190321003844
+    second: Desert_Tilemap_182
+  - first:
+      213: -7923912442724486932
+    second: Desert_Tilemap_183
+  - first:
+      213: 5895509188278158856
+    second: Desert_Tilemap_184
+  - first:
+      213: -9131891724784570598
+    second: Desert_Tilemap_185
+  - first:
+      213: 4704738518014864683
+    second: Desert_Tilemap_186
+  - first:
+      213: -1470536532439842988
+    second: Desert_Tilemap_187
+  - first:
+      213: 5246925177868362926
+    second: Desert_Tilemap_188
+  - first:
+      213: 8351021308146030551
+    second: Desert_Tilemap_189
+  - first:
+      213: 80414921192238573
+    second: Desert_Tilemap_190
+  - first:
+      213: 6174766503502425843
+    second: Desert_Tilemap_191
+  - first:
+      213: -7244074653577014852
+    second: Desert_Tilemap_192
+  - first:
+      213: -3834588149073532233
+    second: Desert_Tilemap_193
+  - first:
+      213: 8253987490719743699
+    second: Desert_Tilemap_194
+  - first:
+      213: -6225152924257042144
+    second: Desert_Tilemap_195
+  - first:
+      213: -7620983613212896431
+    second: Desert_Tilemap_196
+  - first:
+      213: -6488233845907469378
+    second: Desert_Tilemap_197
+  - first:
+      213: -7737631715674551245
+    second: Desert_Tilemap_198
+  - first:
+      213: 1370899295866132064
+    second: Desert_Tilemap_199
+  - first:
+      213: -8465428762920957926
+    second: Desert_Tilemap_200
+  - first:
+      213: 2205837789842016107
+    second: Desert_Tilemap_201
+  - first:
+      213: -4603268620008580542
+    second: Desert_Tilemap_202
+  - first:
+      213: 4283553086726916514
+    second: Desert_Tilemap_203
+  - first:
+      213: 4082634178544443041
+    second: Desert_Tilemap_204
+  - first:
+      213: 1854440291753700979
+    second: Desert_Tilemap_205
+  - first:
+      213: -721485809006087488
+    second: Desert_Tilemap_206
+  - first:
+      213: -1685610218296634848
+    second: Desert_Tilemap_207
+  - first:
+      213: -1683537323229690289
+    second: Desert_Tilemap_208
+  - first:
+      213: -1171519171006635992
+    second: Desert_Tilemap_209
+  - first:
+      213: -4016996188846738483
+    second: Desert_Tilemap_210
+  - first:
+      213: -2851726370646463205
+    second: Desert_Tilemap_211
+  - first:
+      213: -3681499391786404758
+    second: Desert_Tilemap_212
+  - first:
+      213: -4249372802551021495
+    second: Desert_Tilemap_213
+  - first:
+      213: -2823817399722817961
+    second: Desert_Tilemap_214
+  - first:
+      213: 3949894509082152539
+    second: Desert_Tilemap_215
+  - first:
+      213: 8938039007650705152
+    second: Desert_Tilemap_216
+  - first:
+      213: -6582331480000957197
+    second: Desert_Tilemap_217
+  - first:
+      213: 4371794093059025469
+    second: Desert_Tilemap_218
+  - first:
+      213: -3177927001212469223
+    second: Desert_Tilemap_219
+  - first:
+      213: -2272997056842154498
+    second: Desert_Tilemap_220
+  - first:
+      213: -8546753003189418758
+    second: Desert_Tilemap_221
+  - first:
+      213: 1320357094045536391
+    second: Desert_Tilemap_222
+  - first:
+      213: 3636786385971798222
+    second: Desert_Tilemap_223
+  - first:
+      213: 1899690905631535042
+    second: Desert_Tilemap_224
+  - first:
+      213: -8687784984709324118
+    second: Desert_Tilemap_225
+  - first:
+      213: 3474250144270279841
+    second: Desert_Tilemap_226
+  - first:
+      213: 3183705850453688639
+    second: Desert_Tilemap_227
+  - first:
+      213: -2823471560650189106
+    second: Desert_Tilemap_228
+  - first:
+      213: 2454791377429198382
+    second: Desert_Tilemap_229
+  - first:
+      213: 1475928439950862802
+    second: Desert_Tilemap_230
+  - first:
+      213: -8003135401940687676
+    second: Desert_Tilemap_231
+  - first:
+      213: -5949595991053579744
+    second: Desert_Tilemap_232
+  - first:
+      213: -3154018529843706671
+    second: Desert_Tilemap_233
+  - first:
+      213: -3539807408930083445
+    second: Desert_Tilemap_234
+  - first:
+      213: -6686783844061521534
+    second: Desert_Tilemap_235
+  - first:
+      213: 5421151887934465417
+    second: Desert_Tilemap_236
+  - first:
+      213: 3930749490446227775
+    second: Desert_Tilemap_237
+  - first:
+      213: 4881386803901471926
+    second: Desert_Tilemap_238
+  - first:
+      213: -4048287984757938079
+    second: Desert_Tilemap_239
+  - first:
+      213: -6593390546985645605
+    second: Desert_Tilemap_240
+  - first:
+      213: 8001893668313706739
+    second: Desert_Tilemap_241
+  - first:
+      213: -8907819929506582041
+    second: Desert_Tilemap_242
+  - first:
+      213: -4128543099435076387
+    second: Desert_Tilemap_243
+  - first:
+      213: -4604634492592768201
+    second: Desert_Tilemap_244
+  - first:
+      213: 3586717557484260263
+    second: Desert_Tilemap_245
+  - first:
+      213: -7476576652540558543
+    second: Desert_Tilemap_246
+  - first:
+      213: -9161640579471134263
+    second: Desert_Tilemap_247
+  - first:
+      213: 967837480655097450
+    second: Desert_Tilemap_248
+  - first:
+      213: -1152902755808365589
+    second: Desert_Tilemap_249
+  - first:
+      213: 5545662539208337423
+    second: Desert_Tilemap_250
+  - first:
+      213: -6860549585499184243
+    second: Desert_Tilemap_251
+  - first:
+      213: 4487061432455185555
+    second: Desert_Tilemap_252
+  - first:
+      213: -265649735681690226
+    second: Desert_Tilemap_253
+  - first:
+      213: -6011141994424898132
+    second: Desert_Tilemap_254
+  - first:
+      213: 7094824566171798066
+    second: Desert_Tilemap_255
+  - first:
+      213: 5414546498942529594
+    second: Desert_Tilemap_256
+  - first:
+      213: 3019139438836417850
+    second: Desert_Tilemap_257
+  - first:
+      213: -6137572804146550996
+    second: Desert_Tilemap_258
+  - first:
+      213: -4843274756346544594
+    second: Desert_Tilemap_259
+  - first:
+      213: -869829729921154488
+    second: Desert_Tilemap_260
+  - first:
+      213: -6405030980970975403
+    second: Desert_Tilemap_261
+  - first:
+      213: 5271221875863937299
+    second: Desert_Tilemap_262
+  - first:
+      213: -623135194811712850
+    second: Desert_Tilemap_263
+  - first:
+      213: 5205777971531362120
+    second: Desert_Tilemap_118
+  - first:
+      213: -5319652751346981275
+    second: Desert_Tilemap_125
+  - first:
+      213: 1489815110108495447
+    second: Desert_Tilemap_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desert_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229f76f4f7aab0d80800000000000000
+      internalID: -8283339625848112862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3234ede6ae4dd40800000000000000
+      internalID: 5608365197879354278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4603c59743449b50800000000000000
+      internalID: 6598973328738944586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a80a0649680860800000000000000
+      internalID: 7496357329295157195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e8e00e145bdbf90800000000000000
+      internalID: -6936188556544143797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb6967629da10b0800000000000000
+      internalID: -5757050414418183141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5575331e77e380800000000000000
+      internalID: -8942039914154468443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8bfb3fd5eb67a60800000000000000
+      internalID: 7671528326002882738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c040742c8bc163e0800000000000000
+      internalID: -2062143351591780155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708952cb36e04e90800000000000000
+      internalID: -7043376672869351310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86272419570d270800000000000000
+      internalID: 8273241782225103051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c10fefd1a112dd0800000000000000
+      internalID: -2512698400962503548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039d448f964628b0800000000000000
+      internalID: -5177373070682385659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746a76595c9d14d0800000000000000
+      internalID: -3162199455827336079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae717f57921fcac0800000000000000
+      internalID: -3832824316518367584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cde04dfa92bbc0800000000000000
+      internalID: -3768779525648956154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa576b0daa5ef30800000000000000
+      internalID: 4604274007447284437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710470461ebe4ec0800000000000000
+      internalID: -3580715650933063309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05332a6ffe55016a0800000000000000
+      internalID: -6480585374662773936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e2946374dd1cbe0800000000000000
+      internalID: -1458641506368147835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a92572b52d8682a0800000000000000
+      internalID: -6735540999638668893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fdf68bfd5f39a50800000000000000
+      internalID: 6526830626210832264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab01b28ea375700800000000000000
+      internalID: 528956250068662849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cacf5f930d4ff80800000000000000
+      internalID: -8073599284609766387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbbf1773679da920800000000000000
+      internalID: 3003222979982113727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d47dc2aabe79190800000000000000
+      internalID: -7955631100597416680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1072
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c1f92c49fa65cc0800000000000000
+      internalID: -3722594988519908305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f718bca7676e90800000000000000
+      internalID: -7032538301595126173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1040
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07bacf0cda92b0a0800000000000000
+      internalID: -6867256211838159091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef2cafb9b50c1e0800000000000000
+      internalID: -2179641494162178543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1040
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d7ebc8ecc1bcc0800000000000000
+      internalID: -3696948518869019599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1040
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525206c5de33838f0800000000000000
+      internalID: -560641059057556187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1040
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adec0ca544fd9e920800000000000000
+      internalID: 3020190509801983706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1040
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4a0df054c957a0800000000000000
+      internalID: -6387858744326599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84572db81b7fa5940800000000000000
+      internalID: 5285809454599796040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e788a75a54c556900800000000000000
+      internalID: 677048773187897470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648e8577e6c77f00800000000000000
+      internalID: 1114578130209506411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb41be82d305f02c0800000000000000
+      internalID: -4463260482091150146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1eea111c1b1ea0800000000000000
+      internalID: -5901092026947068420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285bc7dc7721ef50800000000000000
+      internalID: 6908846720512907311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5213ddf433aa6470800000000000000
+      internalID: 8388696703923065434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4adcb91652c1d0800000000000000
+      internalID: -3332006105758151353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a54546cea929220800000000000000
+      internalID: 2491223883975514683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da75c8567661d50800000000000000
+      internalID: 6707662380858846594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe716872203630490800000000000000
+      internalID: -7781266870261901329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342264a17fae703c0800000000000000
+      internalID: -4393284564458003901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f503b7ea4c937d70800000000000000
+      internalID: 9039740722591499768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7b79e177f5c540800000000000000
+      internalID: 5027696627649576547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75ed125e303b4c0800000000000000
+      internalID: -4273067338793855013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78751417f3c737760800000000000000
+      internalID: 7454438420153194375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cabc9a591040ec0800000000000000
+      internalID: -3601752059679101914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e6f490066e99c0800000000000000
+      internalID: -3918582473080510392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba38b900f59fb90800000000000000
+      internalID: -7207625272416031971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2b51340bab7910800000000000000
+      internalID: 1836249307579886631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3aa0eda5cbb3770800000000000000
+      internalID: 8591667812597670907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7e882cd7e79940800000000000000
+      internalID: 5302962019011296758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850336f3c4651500800000000000000
+      internalID: 366309737512502668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0111180e106a4a10800000000000000
+      internalID: 1894432275363336463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbb96355d055bf0800000000000000
+      internalID: -336347937529676758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3f03c205d41aa0800000000000000
+      internalID: -6191089379888382421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9ff0583b7ab430800000000000000
+      internalID: 3799484717447748397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8764909d2325e0800000000000000
+      internalID: -1935653315850826817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba8f3ccdb7c3b90800000000000000
+      internalID: -7260792311117206714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a98f12f9ebc160800000000000000
+      internalID: 7046983268071744555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88d75271c18d7a0800000000000000
+      internalID: -6352296388667275045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b653705f2b81fa0800000000000000
+      internalID: -5829712952173434009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e41aed540de920800000000000000
+      internalID: 3021075726441178449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68dadb7f96cd5f0800000000000000
+      internalID: -730592526780758325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357112e444313fb40800000000000000
+      internalID: 5472739156274779987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562dd7f8c9bec8820800000000000000
+      internalID: 2921969315911422565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6fbd307eeb1c90800000000000000
+      internalID: -7197897413581902102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d1eef73370c510800000000000000
+      internalID: 1567379354661541591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2339175836e972870800000000000000
+      internalID: 8658062958920831794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4243003ea8068ad0800000000000000
+      internalID: -2700461382339182006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1868bd1492a049c70800000000000000
+      internalID: 8976811129571083905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf25728666779e0800000000000000
+      internalID: -1623716543121392425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec115ab673c01c70800000000000000
+      internalID: 8939860175029869798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e2b129c9dfc6690800000000000000
+      internalID: -7607426821627630046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a186ff46284aa0800000000000000
+      internalID: -6176644764058671468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48f484e695a09a0800000000000000
+      internalID: -6266097601338178353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 816
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec07f76019c9b9c50800000000000000
+      internalID: 6673099419572728014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94885cd6a459d8f0800000000000000
+      internalID: -515287606719118182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359912ab104b10c0800000000000000
+      internalID: -4604015706628319943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3eb5af6afc8150800000000000000
+      internalID: 5876346971240677182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 708
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838bc51184d0fbc0800000000000000
+      internalID: -3751264838718094457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19581e763ff002850800000000000000
+      internalID: 6350093012686701969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 708
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b30cc469c3ba40800000000000000
+      internalID: 5382867414394583126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 710
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c669ecb5c0ca100800000000000000
+      internalID: 120484878479682666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19be92a54773dd0800000000000000
+      internalID: -2506406737009208840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b7c5e0e83ad7c0800000000000000
+      internalID: -4045858776660068485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743648bcecbc2c890800000000000000
+      internalID: -7439159545424485561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27bbe07b0f90620800000000000000
+      internalID: 2740986517248504552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1081ac1a77fb08650800000000000000
+      internalID: 6233192404817156097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf45a56dc3db780800000000000000
+      internalID: -8665703216654778885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a0d5ae707718270800000000000000
+      internalID: 8251006868199901786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4577408736a44a0800000000000000
+      internalID: -6608360136090626887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284ccb1c2b8e2580800000000000000
+      internalID: -8849983196175251415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77add7b5c88fbfb10800000000000000
+      internalID: 2016478539892513399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03a3f20c08316d0800000000000000
+      internalID: -3020929362121051921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6acda4b6fa5210800000000000000
+      internalID: 1322640696456932084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e39c54bc49cf8050800000000000000
+      internalID: 5805079775984522216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 420
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e3ad0b7ad1c530800000000000000
+      internalID: 3873617376560014427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da860f8f8a2b8e6f0800000000000000
+      internalID: -655077306981652307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 419
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a169d7b3c26e440800000000000000
+      internalID: 4964704273244232279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_191
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 355
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2e3c6b6d21b550800000000000000
+      internalID: 6174766503502425843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc40b71b925f5a0800000000000000
+      internalID: -6488233845907469378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0c6843f86e9490800000000000000
+      internalID: -7737631715674551245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_205
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 272
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ea62fbe9b4cb910800000000000000
+      internalID: 1854440291753700979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75644f24909cfc8d0800000000000000
+      internalID: -2823817399722817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd3a6b3831b470e0800000000000000
+      internalID: -2272997056842154498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_223
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec063d313f5787230800000000000000
+      internalID: 3636786385971798222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_241
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0394e35ef6c0f60800000000000000
+      internalID: 8001893668313706739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334759a52ddd3890800000000000000
+      internalID: -7476576652540558543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_251
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832e50308e6ac0a0800000000000000
+      internalID: -6860549585499184243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_255
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a826a5a51e57260800000000000000
+      internalID: 7094824566171798066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30fd417a55542b40800000000000000
+      internalID: 5414546498942529594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_260
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c9fc187ebde3f0800000000000000
+      internalID: -869829729921154488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938da11b78a907b0800000000000000
+      internalID: -5257485843447315563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2251e3fcfcc37d0800000000000000
+      internalID: -2937244367945653584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f95978730296e10800000000000000
+      internalID: 2191318116562476947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d488bfbe8e9d980800000000000000
+      internalID: -8513517520332239602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1912bbb70e77b90800000000000000
+      internalID: -7244074653577014852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baac8a156ec8cac0800000000000000
+      internalID: -3834588149073532233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661fe075a9660310800000000000000
+      internalID: 1370899295866132064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c8b25461c48a80800000000000000
+      internalID: -8465428762920957926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_201
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678aa768c5bc9e10800000000000000
+      internalID: 2205837789842016107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_206
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f4b3ba74ccf5f0800000000000000
+      internalID: -721485809006087488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02219acef628b98e0800000000000000
+      internalID: -1685610218296634848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_211
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de00999f1ac68d0800000000000000
+      internalID: -2851726370646463205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6431cffecfa8ecc0800000000000000
+      internalID: -3681499391786404758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9408db143f13705c0800000000000000
+      internalID: -4249372802551021495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_217
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4fba4c46cd6a4a0800000000000000
+      internalID: -6582331480000957197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a2feb909bbbac30800000000000000
+      internalID: 4371794093059025469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1357b9e3553dc30800000000000000
+      internalID: 4382940589746106828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640386887d99176e0800000000000000
+      internalID: -1841521621632274362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083599984c58ecd0800000000000000
+      internalID: -2528669723884439549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72253395d83bc73f0800000000000000
+      internalID: -901648405712645593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01be3ef74b1ccd0800000000000000
+      internalID: -2539550253482569517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80d70a7090fe7e0800000000000000
+      internalID: -1734157403152381745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0bbd90cbcb45a20800000000000000
+      internalID: 3050270363441934589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a717fb6e0e6c10800000000000000
+      internalID: 2048590737369965499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f72a99b866ded0800000000000000
+      internalID: -2389607405908920887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d501cd37c8e4d60800000000000000
+      internalID: 7876387227558763831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248cc7d5b1b47fa10800000000000000
+      internalID: 1943104345138317378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad76597268590d70800000000000000
+      internalID: 9009829709497138597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8772c2bacd0ce060800000000000000
+      internalID: 6983972286378440586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acee2f3efad0b400800000000000000
+      internalID: 338010757569375395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98139828a4e5f60800000000000000
+      internalID: 8024933510528731556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e0ae021decf0930800000000000000
+      internalID: 4111732382408248833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9afaf7e9f951d0800000000000000
+      internalID: -3361380872111875500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2ea4db73ae3840800000000000000
+      internalID: 5205777971531362120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566a883e10ccc26b0800000000000000
+      internalID: -5319652751346981275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb60303f2eca410800000000000000
+      internalID: 1489815110108495447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce14554816986e0800000000000000
+      internalID: -1834828152182805323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50671fc37e8c1820800000000000000
+      internalID: 2890341688911814747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

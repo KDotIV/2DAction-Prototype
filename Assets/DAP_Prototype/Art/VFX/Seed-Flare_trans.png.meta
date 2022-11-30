@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: f4be26cea549cea4a9029a34ebe25da2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3862141777355169545
+    second: Seed-Flare_trans_0
+  - first:
+      213: -2123162063555946940
+    second: Seed-Flare_trans_1
+  - first:
+      213: 1450465220251172548
+    second: Seed-Flare_trans_2
+  - first:
+      213: 7042498680602520253
+    second: Seed-Flare_trans_3
+  - first:
+      213: 2857043925198037689
+    second: Seed-Flare_trans_4
+  - first:
+      213: -8560419859638751713
+    second: Seed-Flare_trans_5
+  - first:
+      213: -2853710759299982664
+    second: Seed-Flare_trans_6
+  - first:
+      213: 4080485611304281836
+    second: Seed-Flare_trans_7
+  - first:
+      213: -5743697914890783398
+    second: Seed-Flare_trans_8
+  - first:
+      213: -9137756800767378558
+    second: Seed-Flare_trans_9
+  - first:
+      213: 5314342768708425852
+    second: Seed-Flare_trans_10
+  - first:
+      213: -8437304745643091049
+    second: Seed-Flare_trans_11
+  - first:
+      213: 825321254705478965
+    second: Seed-Flare_trans_12
+  - first:
+      213: 622980449909480856
+    second: Seed-Flare_trans_13
+  - first:
+      213: -8485976230593454409
+    second: Seed-Flare_trans_14
+  - first:
+      213: -4856483381228210847
+    second: Seed-Flare_trans_15
+  - first:
+      213: -948560342417456213
+    second: Seed-Flare_trans_16
+  - first:
+      213: 7588213797307306308
+    second: Seed-Flare_trans_17
+  - first:
+      213: 5408606949628439386
+    second: Seed-Flare_trans_18
+  - first:
+      213: -4238732988272663925
+    second: Seed-Flare_trans_19
+  - first:
+      213: -2022242157954302757
+    second: Seed-Flare_trans_20
+  - first:
+      213: -8424499637109049837
+    second: Seed-Flare_trans_21
+  - first:
+      213: -5501050834544723853
+    second: Seed-Flare_trans_22
+  - first:
+      213: 8168458619630602975
+    second: Seed-Flare_trans_23
+  - first:
+      213: -5179880794503366307
+    second: Seed-Flare_trans_24
+  - first:
+      213: 6945012142484911263
+    second: Seed-Flare_trans_25
+  - first:
+      213: 2036058103244843832
+    second: Seed-Flare_trans_26
+  - first:
+      213: 1774585847566909242
+    second: Seed-Flare_trans_27
+  - first:
+      213: 3795315253160018516
+    second: Seed-Flare_trans_28
+  - first:
+      213: -6802357640230038235
+    second: Seed-Flare_trans_29
+  - first:
+      213: -5783303156611188914
+    second: Seed-Flare_trans_30
+  - first:
+      213: -5128936506433736872
+    second: Seed-Flare_trans_31
+  - first:
+      213: 2563713274038278519
+    second: Seed-Flare_trans_32
+  - first:
+      213: 9166459285185374644
+    second: Seed-Flare_trans_33
+  - first:
+      213: 3009754278786460572
+    second: Seed-Flare_trans_34
+  - first:
+      213: -1216969338235442895
+    second: Seed-Flare_trans_35
+  - first:
+      213: -7488802991896223448
+    second: Seed-Flare_trans_36
+  - first:
+      213: -144410862891308835
+    second: Seed-Flare_trans_37
+  - first:
+      213: -6998725327173630166
+    second: Seed-Flare_trans_38
+  - first:
+      213: 873088946907528503
+    second: Seed-Flare_trans_39
+  - first:
+      213: 4536605757963618268
+    second: Seed-Flare_trans_40
+  - first:
+      213: -2964017316499019143
+    second: Seed-Flare_trans_41
+  - first:
+      213: -7976097758510764189
+    second: Seed-Flare_trans_42
+  - first:
+      213: -2902846149509084804
+    second: Seed-Flare_trans_43
+  - first:
+      213: -8678266508065700493
+    second: Seed-Flare_trans_44
+  - first:
+      213: -4660793832118805002
+    second: Seed-Flare_trans_45
+  - first:
+      213: -6728000807989530251
+    second: Seed-Flare_trans_46
+  - first:
+      213: 1431329195481893280
+    second: Seed-Flare_trans_47
+  - first:
+      213: -8883081304312860975
+    second: Seed-Flare_trans_48
+  - first:
+      213: 6381873354081910837
+    second: Seed-Flare_trans_49
+  - first:
+      213: 4858025911424554435
+    second: Seed-Flare_trans_50
+  - first:
+      213: 8102772992823574988
+    second: Seed-Flare_trans_51
+  - first:
+      213: -8675026280406974376
+    second: Seed-Flare_trans_52
+  - first:
+      213: -3195711627309999397
+    second: Seed-Flare_trans_53
+  - first:
+      213: 5266937735502625428
+    second: Seed-Flare_trans_54
+  - first:
+      213: -6448341688165853035
+    second: Seed-Flare_trans_55
+  - first:
+      213: 6639511072421337378
+    second: Seed-Flare_trans_56
+  - first:
+      213: 5436931589103043055
+    second: Seed-Flare_trans_57
+  - first:
+      213: 7748373224617949511
+    second: Seed-Flare_trans_58
+  - first:
+      213: -5387778575291299751
+    second: Seed-Flare_trans_59
+  - first:
+      213: -1856114491949648528
+    second: Seed-Flare_trans_60
+  - first:
+      213: -7258706902514004895
+    second: Seed-Flare_trans_61
+  - first:
+      213: 455152166020019213
+    second: Seed-Flare_trans_62
+  - first:
+      213: -1119344170242481338
+    second: Seed-Flare_trans_63
+  - first:
+      213: 2632271506635622523
+    second: Seed-Flare_trans_64
+  - first:
+      213: 1834119140373896080
+    second: Seed-Flare_trans_65
+  - first:
+      213: -6759098736531058729
+    second: Seed-Flare_trans_66
+  - first:
+      213: -4698728745244741217
+    second: Seed-Flare_trans_67
+  - first:
+      213: -7309829370706814962
+    second: Seed-Flare_trans_68
+  - first:
+      213: -458565889463395062
+    second: Seed-Flare_trans_69
+  - first:
+      213: 8350290410978282346
+    second: Seed-Flare_trans_70
+  - first:
+      213: -3612627574297926300
+    second: Seed-Flare_trans_71
+  - first:
+      213: 1984874427181573905
+    second: Seed-Flare_trans_72
+  - first:
+      213: -1966937814110771937
+    second: Seed-Flare_trans_73
+  - first:
+      213: 6822974994807997958
+    second: Seed-Flare_trans_74
+  - first:
+      213: 7020138953381525201
+    second: Seed-Flare_trans_75
+  - first:
+      213: -4789403192905748799
+    second: Seed-Flare_trans_76
+  - first:
+      213: -5886509852702616195
+    second: Seed-Flare_trans_77
+  - first:
+      213: 3401804055270077471
+    second: Seed-Flare_trans_78
+  - first:
+      213: -1310092775129400392
+    second: Seed-Flare_trans_79
+  - first:
+      213: -6388821737665478062
+    second: Seed-Flare_trans_80
+  - first:
+      213: -1763386155671607309
+    second: Seed-Flare_trans_81
+  - first:
+      213: 4696553899239856116
+    second: Seed-Flare_trans_82
+  - first:
+      213: -1387205323282479600
+    second: Seed-Flare_trans_83
+  - first:
+      213: 3775944455922944658
+    second: Seed-Flare_trans_84
+  - first:
+      213: -3857250499313180404
+    second: Seed-Flare_trans_85
+  - first:
+      213: 4454688348459107896
+    second: Seed-Flare_trans_86
+  - first:
+      213: -6006726797924432283
+    second: Seed-Flare_trans_87
+  - first:
+      213: -488752731241773449
+    second: Seed-Flare_trans_88
+  - first:
+      213: 7132977346870344390
+    second: Seed-Flare_trans_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seed-Flare_trans_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 145
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ac88148ae66ac0800000000000000
+      internalID: -3862141777355169545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 431
+        width: 181
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3124de66112410800000000000000
+      internalID: 1450465220251172548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 435
+        width: 170
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ed1d005246a720800000000000000
+      internalID: 2857043925198037689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e68022e77433980800000000000000
+      internalID: -8560419859638751713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 286
+        width: 208
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce662ec4b0cc0a830800000000000000
+      internalID: 4080485611304281836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 286
+        width: 220
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb9568a9a203180800000000000000
+      internalID: -9137756800767378558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd93e590ca8ea80800000000000000
+      internalID: -8437304745643091049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed-Flare_trans_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 140
+        width: 257
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1ed22b6545a800800000000000000
+      internalID: 622980449909480856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

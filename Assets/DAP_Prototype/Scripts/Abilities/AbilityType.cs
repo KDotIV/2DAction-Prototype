@@ -1,0 +1,1 @@
+﻿public enum AbilityType { Standard, Reaction, Proc, BigCast, Stance }

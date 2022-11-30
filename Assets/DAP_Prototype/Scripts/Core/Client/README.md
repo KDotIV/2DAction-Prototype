@@ -1,0 +1,1 @@
+Everything here is still non-Unity-specific, but makes sense only in the context of a game client.

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Startup.unity
+    guid: 3bc2c924644b74f559b45d624d294c0f
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Intro.unity
+    guid: b865b5064ab6eb44fa742fd770390fe6
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/MainMenu.unity
+    guid: 3814f555efbef4b97aec01860a7ec6d7
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Loading.unity
+    guid: 0c4de07a6412998498927642f982ad3c
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Curtain.unity
+    guid: 86ba3c0cfdc1b4cca92f222cff48e6b6
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/DeathScene/DeathScene.unity
+    guid: 996743857e11f8442b99e6d029dde0d8
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Desert/Starting/BloodyRoom.unity
+    guid: a4bdd729dfe91194fb6822e305e78174
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Desert/DesertTown/DesertTown.unity
+    guid: dee3fba77619386499aafb6cb8598d70
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Desert/DesertExplore/DesertExplore.unity
+    guid: a8bae1ba151e9db47b1c48c58d5aef47
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Desert/DesertDigSite/DesertDigSite.unity
+    guid: 7edd4fd303b755740ace23621863e86b
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/Desert/DesertDungeon/DesertDungeon.unity
+    guid: af4582aa06d01214393c8d5dd92afab6
+  - enabled: 1
+    path: Assets/DAP_Prototype/Scenes/FinalScene/FinalScene.unity
+    guid: 125796ee62d90ac4b900829b58fcf4b1
+  m_configObjects: {}

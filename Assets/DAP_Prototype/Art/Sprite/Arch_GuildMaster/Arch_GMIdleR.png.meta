@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: f5a2472793a6fe74c89f2d734420ecc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5241677887753941874
+    second: Arch_GMIdleR_01
+  - first:
+      213: 3643098140127765524
+    second: Arch_GMIdleR_02
+  - first:
+      213: -3085567484243327220
+    second: Arch_GMIdleR_03
+  - first:
+      213: 5908742494747274191
+    second: Arch_GMIdleR_04
+  - first:
+      213: -7545090645496347987
+    second: Arch_GMIdleR_05
+  - first:
+      213: 4103492849312020868
+    second: Arch_GMIdleR_06
+  - first:
+      213: -4054340471093723518
+    second: Arch_GMIdleR_07
+  - first:
+      213: 4111311522354165954
+    second: Arch_GMIdleR_08
+  - first:
+      213: -7272938695324103762
+    second: Arch_GMIdleR_09
+  - first:
+      213: -985797213150339843
+    second: Arch_GMIdleR_10
+  - first:
+      213: 7277289142773178779
+    second: Arch_GMIdleR_11
+  - first:
+      213: 1643875468158980641
+    second: Arch_GMIdleR_12
+  - first:
+      213: 6854009687857593016
+    second: Arch_GMIdleR_13
+  - first:
+      213: 5905084968150756331
+    second: Arch_GMIdleR_14
+  - first:
+      213: -129147492138852248
+    second: Arch_GMIdleR_15
+  - first:
+      213: -5181542007272307843
+    second: Arch_GMIdleR_16
+  - first:
+      213: -423167137681864622
+    second: Arch_GMIdleR_17
+  - first:
+      213: -4257655734375757190
+    second: Arch_GMIdleR_18
+  - first:
+      213: 2513610115577482946
+    second: spr_KingIdle_NoEffects_18
+  - first:
+      213: -7916825509444312433
+    second: spr_KingIdle_NoEffects_19
+  - first:
+      213: -2625307471374496305
+    second: spr_KingIdle_NoEffects_20
+  - first:
+      213: 9041476324425924964
+    second: spr_KingIdle_NoEffects_21
+  - first:
+      213: -6834400773125920744
+    second: spr_KingIdle_NoEffects_22
+  - first:
+      213: -479921914775329422
+    second: spr_KingIdle_NoEffects_23
+  - first:
+      213: -7242844874425948130
+    second: spr_KingIdle_NoEffects_24
+  - first:
+      213: 2281461856318572884
+    second: spr_KingIdle_NoEffects_25
+  - first:
+      213: -3552291322075192448
+    second: spr_KingIdle_NoEffects_26
+  - first:
+      213: -1205219360022996854
+    second: spr_KingIdle_NoEffects_27
+  - first:
+      213: -7653682832414546349
+    second: spr_KingIdle_NoEffects_28
+  - first:
+      213: 2173299429914922891
+    second: spr_KingIdle_NoEffects_29
+  - first:
+      213: 4473071302598311311
+    second: spr_KingIdle_NoEffects_30
+  - first:
+      213: 8944720353826750667
+    second: spr_KingIdle_NoEffects_31
+  - first:
+      213: -1258405101316699198
+    second: spr_KingIdle_NoEffects_32
+  - first:
+      213: 1599924444790793907
+    second: spr_KingIdle_NoEffects_33
+  - first:
+      213: 8896536002914627690
+    second: spr_KingIdle_NoEffects_34
+  - first:
+      213: 7669503561443327831
+    second: spr_KingIdle_NoEffects_35
+  - first:
+      213: -7404175682287533377
+    second: spr_KingIdle_NoEffects_36
+  - first:
+      213: 3353160341767761263
+    second: spr_KingIdle_NoEffects_37
+  - first:
+      213: 5786368024446493429
+    second: spr_KingIdle_NoEffects_38
+  - first:
+      213: -2190385759156772278
+    second: spr_KingIdle_NoEffects_39
+  - first:
+      213: 4168250938907787456
+    second: spr_KingIdle_NoEffects_40
+  - first:
+      213: 7057988568549796211
+    second: spr_KingIdle_NoEffects_41
+  - first:
+      213: 8407572837678742607
+    second: spr_KingIdle_NoEffects_42
+  - first:
+      213: 5419958630633666333
+    second: spr_KingIdle_NoEffects_43
+  - first:
+      213: -2727411746342971745
+    second: spr_KingIdle_NoEffects_44
+  - first:
+      213: -2481733120093982497
+    second: spr_KingIdle_NoEffects_45
+  - first:
+      213: 173271420045987413
+    second: spr_KingIdle_NoEffects_46
+  - first:
+      213: 2091448242620314149
+    second: spr_KingIdle_NoEffects_47
+  - first:
+      213: -3812608135723045596
+    second: spr_KingIdle_NoEffects_48
+  - first:
+      213: -6331339019368790949
+    second: spr_KingIdle_NoEffects_49
+  - first:
+      213: -6430368562649622972
+    second: spr_KingIdle_NoEffects_50
+  - first:
+      213: -9216161958602025731
+    second: spr_KingIdle_NoEffects_51
+  - first:
+      213: 8085932656462512735
+    second: spr_KingIdle_NoEffects_52
+  - first:
+      213: 8811867507960838205
+    second: spr_KingIdle_NoEffects_53
+  - first:
+      213: -5602240625228202575
+    second: spr_KingIdle_NoEffects_54
+  - first:
+      213: -8779223573915815163
+    second: spr_KingIdle_NoEffects_55
+  - first:
+      213: 5537106945735771698
+    second: spr_KingIdle_NoEffects_56
+  - first:
+      213: -7809000199585695013
+    second: spr_KingIdle_NoEffects_57
+  - first:
+      213: 7021989304712249184
+    second: spr_KingIdle_NoEffects_58
+  - first:
+      213: -4270516317629037684
+    second: spr_KingIdle_NoEffects_59
+  - first:
+      213: 8781038892016759466
+    second: spr_KingIdle_NoEffects_60
+  - first:
+      213: -2894729824995772998
+    second: spr_KingIdle_NoEffects_61
+  - first:
+      213: -8771390135400722470
+    second: spr_KingIdle_NoEffects_62
+  - first:
+      213: 5067008364027033673
+    second: spr_KingIdle_NoEffects_63
+  - first:
+      213: 5891827345486709026
+    second: spr_KingIdle_NoEffects_64
+  - first:
+      213: 8583142478132640888
+    second: spr_KingIdle_NoEffects_65
+  - first:
+      213: -1789369502077922059
+    second: spr_KingIdle_NoEffects_66
+  - first:
+      213: -7283128991622379545
+    second: spr_KingIdle_NoEffects_67
+  - first:
+      213: -6105436171716436420
+    second: spr_KingIdle_NoEffects_68
+  - first:
+      213: -7193242938011816123
+    second: spr_KingIdle_NoEffects_69
+  - first:
+      213: -3510869078343770355
+    second: spr_KingIdle_NoEffects_70
+  - first:
+      213: -6641440537869858133
+    second: spr_KingIdle_NoEffects_71
+  - first:
+      213: -3173745948833663383
+    second: Arch_GMIdleR_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arch_GMIdleR_01
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f79e644e2eb840800000000000000
+      internalID: 5241677887753941874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_02
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a33cd472ee8230800000000000000
+      internalID: 3643098140127765524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_03
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074e2b98bcdd25d0800000000000000
+      internalID: -3085567484243327220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_04
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbaaac3ef1100250800000000000000
+      internalID: 5908742494747274191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_05
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2411598047a4790800000000000000
+      internalID: -7545090645496347987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_06
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893995510982f830800000000000000
+      internalID: 4103492849312020868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_07
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef7f582d61cb7c0800000000000000
+      internalID: -4054340471093723518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_08
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f3e20c005e0930800000000000000
+      internalID: 4111311522354165954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_09
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab83005ac4511b90800000000000000
+      internalID: -7272938695324103762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9a9958aeb152f0800000000000000
+      internalID: -985797213150339843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_11
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916dca2bef1ef460800000000000000
+      internalID: 7277289142773178779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1225896570830d610800000000000000
+      internalID: 1643875468158980641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_13
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba76db3f755e1f50800000000000000
+      internalID: 6854009687857593016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_14
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebef17fd7313f150800000000000000
+      internalID: 5905084968150756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_15
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8606e674a0d253ef0800000000000000
+      internalID: -129147492138852248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_16
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7305c35ff67718b0800000000000000
+      internalID: -5181542007272307843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_17
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2588ad5fabb902af0800000000000000
+      internalID: -423167137681864622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch_GMIdleR_18
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 51
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac0a8eaa4c9e4c0800000000000000
+      internalID: -4257655734375757190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

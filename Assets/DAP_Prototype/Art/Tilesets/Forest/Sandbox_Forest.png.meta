@@ -1,0 +1,2849 @@
+fileFormatVersion: 2
+guid: e3152309bdf7ffa41b7dcb806fbe6c5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3088641525509441816
+    second: Sandbox_Forest_0
+  - first:
+      213: 6474932504418481558
+    second: Sandbox_Forest_1
+  - first:
+      213: -6327595532506816503
+    second: Sandbox_Forest_2
+  - first:
+      213: 7492709984950231999
+    second: Sandbox_Forest_3
+  - first:
+      213: -308551469306954097
+    second: Sandbox_Forest_4
+  - first:
+      213: 3144084711063184763
+    second: Sandbox_Forest_5
+  - first:
+      213: 5210506118900203427
+    second: Sandbox_Forest_6
+  - first:
+      213: -1850168178724102353
+    second: Sandbox_Forest_7
+  - first:
+      213: -4676526243485193956
+    second: Sandbox_Forest_8
+  - first:
+      213: -7792890701151510394
+    second: Sandbox_Forest_9
+  - first:
+      213: 3140934169269962520
+    second: Sandbox_Forest_10
+  - first:
+      213: 6470471631965324942
+    second: Sandbox_Forest_11
+  - first:
+      213: 4718454772752987108
+    second: Sandbox_Forest_12
+  - first:
+      213: -1355161328570637735
+    second: Sandbox_Forest_13
+  - first:
+      213: 1223169680726862135
+    second: Sandbox_Forest_14
+  - first:
+      213: -8782155109880676229
+    second: Sandbox_Forest_15
+  - first:
+      213: -7374016216278608358
+    second: Sandbox_Forest_16
+  - first:
+      213: -4548064454856200161
+    second: Sandbox_Forest_17
+  - first:
+      213: -2140262542954172875
+    second: Sandbox_Forest_18
+  - first:
+      213: 392703867593661928
+    second: Sandbox_Forest_19
+  - first:
+      213: -2448063238892681029
+    second: Sandbox_Forest_20
+  - first:
+      213: -5861110073861185735
+    second: Sandbox_Forest_21
+  - first:
+      213: -8336184414959650720
+    second: Sandbox_Forest_22
+  - first:
+      213: 1787493215743479635
+    second: Sandbox_Forest_23
+  - first:
+      213: -1981623593753027588
+    second: Sandbox_Forest_24
+  - first:
+      213: 62911045267628163
+    second: Sandbox_Forest_25
+  - first:
+      213: -230301123816577735
+    second: Sandbox_Forest_26
+  - first:
+      213: 8874659327165370533
+    second: Sandbox_Forest_27
+  - first:
+      213: -6821068512310224182
+    second: Sandbox_Forest_28
+  - first:
+      213: 4297632420723069802
+    second: Sandbox_Forest_29
+  - first:
+      213: -1172656178636621424
+    second: Sandbox_Forest_30
+  - first:
+      213: -126161119060136064
+    second: Sandbox_Forest_31
+  - first:
+      213: -4172182615277941779
+    second: Sandbox_Forest_32
+  - first:
+      213: -3701635443549476082
+    second: Sandbox_Forest_33
+  - first:
+      213: -4575750275197120331
+    second: Sandbox_Forest_34
+  - first:
+      213: 471262500546336225
+    second: Sandbox_Forest_35
+  - first:
+      213: 9073172493413868130
+    second: Sandbox_Forest_36
+  - first:
+      213: -960389224983917962
+    second: Sandbox_Forest_37
+  - first:
+      213: 7317197408035348127
+    second: Sandbox_Forest_38
+  - first:
+      213: -4206747106094693569
+    second: Sandbox_Forest_39
+  - first:
+      213: 6866706846826526977
+    second: Sandbox_Forest_40
+  - first:
+      213: -6269854862717417075
+    second: Sandbox_Forest_41
+  - first:
+      213: 646416318699376042
+    second: Sandbox_Forest_42
+  - first:
+      213: 852559065880615801
+    second: Sandbox_Forest_43
+  - first:
+      213: -6154021402358465581
+    second: Sandbox_Forest_44
+  - first:
+      213: -1421028643209026113
+    second: Sandbox_Forest_45
+  - first:
+      213: 2301522474680452178
+    second: Sandbox_Forest_46
+  - first:
+      213: -7963040037896295714
+    second: Sandbox_Forest_47
+  - first:
+      213: 6695997352767366438
+    second: Sandbox_Forest_48
+  - first:
+      213: -4958801975302407303
+    second: Sandbox_Forest_49
+  - first:
+      213: 3593523714491240608
+    second: Sandbox_Forest_50
+  - first:
+      213: -1622275541071064978
+    second: Sandbox_Forest_51
+  - first:
+      213: 6869599526943186246
+    second: Sandbox_Forest_52
+  - first:
+      213: -558370962978720716
+    second: Sandbox_Forest_53
+  - first:
+      213: -3918306054268011837
+    second: Sandbox_Forest_54
+  - first:
+      213: 1865855588490362195
+    second: Sandbox_Forest_55
+  - first:
+      213: 978355718847356058
+    second: Sandbox_Forest_56
+  - first:
+      213: -5800220010416954092
+    second: Sandbox_Forest_57
+  - first:
+      213: 2967640489700133388
+    second: Sandbox_Forest_58
+  - first:
+      213: 2415977142646516003
+    second: Sandbox_Forest_59
+  - first:
+      213: -7057450940104919037
+    second: Sandbox_Forest_60
+  - first:
+      213: 5336948197052765604
+    second: Sandbox_Forest_61
+  - first:
+      213: -6171344995939708445
+    second: Sandbox_Forest_62
+  - first:
+      213: 6401147116869626895
+    second: Sandbox_Forest_63
+  - first:
+      213: 6205917544188245711
+    second: Sandbox_Forest_64
+  - first:
+      213: -5717400520939586713
+    second: Sandbox_Forest_65
+  - first:
+      213: -441144739596844572
+    second: Sandbox_Forest_66
+  - first:
+      213: 3842877792246212224
+    second: Sandbox_Forest_67
+  - first:
+      213: 9104829481381842541
+    second: Sandbox_Forest_68
+  - first:
+      213: -4027502142270688421
+    second: Sandbox_Forest_69
+  - first:
+      213: -1175695112222638881
+    second: Sandbox_Forest_70
+  - first:
+      213: -4013610222917089734
+    second: Sandbox_Forest_71
+  - first:
+      213: -8301440917826689925
+    second: Sandbox_Forest_72
+  - first:
+      213: 6118552972320512691
+    second: Sandbox_Forest_73
+  - first:
+      213: -3110123837290500787
+    second: Sandbox_Forest_74
+  - first:
+      213: 338286622091418696
+    second: Sandbox_Forest_75
+  - first:
+      213: -6720040699777655517
+    second: Sandbox_Forest_76
+  - first:
+      213: 6989784423725277317
+    second: Sandbox_Forest_77
+  - first:
+      213: -8347904372574205240
+    second: Sandbox_Forest_78
+  - first:
+      213: -6038455400276340026
+    second: Sandbox_Forest_79
+  - first:
+      213: -4041108684009688646
+    second: Sandbox_Forest_80
+  - first:
+      213: -4132050140439969897
+    second: Sandbox_Forest_81
+  - first:
+      213: 208437837779643005
+    second: Sandbox_Forest_82
+  - first:
+      213: 2273549285553696352
+    second: Sandbox_Forest_83
+  - first:
+      213: -2312214672100676106
+    second: Sandbox_Forest_84
+  - first:
+      213: -2892957413993641392
+    second: Sandbox_Forest_85
+  - first:
+      213: 8031791981936636037
+    second: Sandbox_Forest_86
+  - first:
+      213: -7547656077561001198
+    second: Sandbox_Forest_87
+  - first:
+      213: -158186127196235072
+    second: Sandbox_Forest_88
+  - first:
+      213: 7282933321632586149
+    second: Sandbox_Forest_89
+  - first:
+      213: -5961118127835749829
+    second: Sandbox_Forest_90
+  - first:
+      213: 4469709399938546884
+    second: Sandbox_Forest_91
+  - first:
+      213: 1816085046776783139
+    second: Sandbox_Forest_92
+  - first:
+      213: -595335797118297331
+    second: Sandbox_Forest_93
+  - first:
+      213: -7169354135380249034
+    second: Sandbox_Forest_94
+  - first:
+      213: 5725804922171323971
+    second: Sandbox_Forest_95
+  - first:
+      213: -3592744840293812878
+    second: Sandbox_Forest_96
+  - first:
+      213: -5304634863477893699
+    second: Sandbox_Forest_97
+  - first:
+      213: -3581777296573338014
+    second: Sandbox_Forest_98
+  - first:
+      213: 8498573874394864112
+    second: Sandbox_Forest_99
+  - first:
+      213: 1855691507891744196
+    second: Sandbox_Forest_100
+  - first:
+      213: 2356190793297134675
+    second: Sandbox_Forest_101
+  - first:
+      213: -8911541780694994887
+    second: Sandbox_Forest_102
+  - first:
+      213: -9212187728914121003
+    second: Sandbox_Forest_103
+  - first:
+      213: 6093113601436085965
+    second: Sandbox_Forest_104
+  - first:
+      213: -8018084123451377539
+    second: Sandbox_Forest_105
+  - first:
+      213: 5863669621020629654
+    second: Sandbox_Forest_106
+  - first:
+      213: -7256927254385471751
+    second: Sandbox_Forest_107
+  - first:
+      213: 6755458394276348353
+    second: Sandbox_Forest_108
+  - first:
+      213: -6801289428993822365
+    second: Sandbox_Forest_109
+  - first:
+      213: -606307394546924996
+    second: Sandbox_Forest_110
+  - first:
+      213: -2204168942102277124
+    second: Sandbox_Forest_111
+  - first:
+      213: -6944359565256127354
+    second: Sandbox_Forest_112
+  - first:
+      213: 3733813125907382110
+    second: Sandbox_Forest_113
+  - first:
+      213: -738114875515244587
+    second: Sandbox_Forest_114
+  - first:
+      213: -1286253845562190193
+    second: Sandbox_Forest_115
+  - first:
+      213: -1956551923441757208
+    second: Sandbox_Forest_116
+  - first:
+      213: -3876849855785835948
+    second: Sandbox_Forest_117
+  - first:
+      213: -7413247857733358892
+    second: Sandbox_Forest_118
+  - first:
+      213: 7592143726643874514
+    second: Sandbox_Forest_119
+  - first:
+      213: -1823688366449857407
+    second: Sandbox_Forest_120
+  - first:
+      213: -1313502266109259651
+    second: Sandbox_Forest_121
+  - first:
+      213: 226374896522849816
+    second: Sandbox_Forest_122
+  - first:
+      213: 927951167251512827
+    second: Sandbox_Forest_123
+  - first:
+      213: -2706696648135101349
+    second: Sandbox_Forest_124
+  - first:
+      213: 1400608291215513456
+    second: Sandbox_Forest_125
+  - first:
+      213: -7645168346227727884
+    second: Sandbox_Forest_126
+  - first:
+      213: 6687362412852350372
+    second: Sandbox_Forest_127
+  - first:
+      213: 2961993651410388276
+    second: Sandbox_Forest_128
+  - first:
+      213: 3333925775914209977
+    second: Sandbox_Forest_129
+  - first:
+      213: -8996948768563596424
+    second: Sandbox_Forest_130
+  - first:
+      213: -4915854670085152024
+    second: Sandbox_Forest_131
+  - first:
+      213: 6637030710830744225
+    second: Sandbox_Forest_132
+  - first:
+      213: -5772314947826526904
+    second: Sandbox_Forest_133
+  - first:
+      213: 152057422580017911
+    second: Sandbox_Forest_134
+  - first:
+      213: 1974293482187187515
+    second: Sandbox_Forest_135
+  - first:
+      213: 7200047530360476565
+    second: Sandbox_Forest_136
+  - first:
+      213: 1729315854239112022
+    second: Sandbox_Forest_137
+  - first:
+      213: 1634490027651486974
+    second: Sandbox_Forest_138
+  - first:
+      213: -1277778618426793174
+    second: Sandbox_Forest_139
+  - first:
+      213: 7190381674992958997
+    second: Sandbox_Forest_140
+  - first:
+      213: 7453338692033616586
+    second: Sandbox_Forest_141
+  - first:
+      213: 6275916368539485708
+    second: Sandbox_Forest_142
+  - first:
+      213: 6866718708759283649
+    second: Sandbox_Forest_143
+  - first:
+      213: -4459461850549190496
+    second: Sandbox_Forest_144
+  - first:
+      213: -8229210160942553878
+    second: Sandbox_Forest_145
+  - first:
+      213: 535419318506667895
+    second: Sandbox_Forest_146
+  - first:
+      213: 7526536688721601796
+    second: Sandbox_Forest_147
+  - first:
+      213: -69095067452493156
+    second: Sandbox_Forest_148
+  - first:
+      213: -1778278141351438148
+    second: Sandbox_Forest_149
+  - first:
+      213: -2059482593556556792
+    second: Sandbox_Forest_150
+  - first:
+      213: 6807993842642298588
+    second: Sandbox_Forest_151
+  - first:
+      213: 4582494118990363335
+    second: Sandbox_Forest_152
+  - first:
+      213: -6017716836088671208
+    second: Sandbox_Forest_153
+  - first:
+      213: 1113529288811834252
+    second: Sandbox_Forest_154
+  - first:
+      213: -3819943153123548369
+    second: Sandbox_Forest_155
+  - first:
+      213: -5187891286196220258
+    second: Sandbox_Forest_156
+  - first:
+      213: 1401209369834042868
+    second: Sandbox_Forest_157
+  - first:
+      213: 4186793807310901302
+    second: Sandbox_Forest_158
+  - first:
+      213: -6688435469466899860
+    second: Sandbox_Forest_159
+  - first:
+      213: 2601093905471931790
+    second: Sandbox_Forest_160
+  - first:
+      213: -882341652800547356
+    second: Sandbox_Forest_161
+  - first:
+      213: -8963244223905671682
+    second: Sandbox_Forest_162
+  - first:
+      213: -206309185137034356
+    second: Sandbox_Forest_163
+  - first:
+      213: 4805452047829280548
+    second: Sandbox_Forest_164
+  - first:
+      213: 4461947265326386234
+    second: Sandbox_Forest_165
+  - first:
+      213: 1534096567116527283
+    second: Sandbox_Forest_166
+  - first:
+      213: 2392565284479573680
+    second: Sandbox_Forest_167
+  - first:
+      213: -8966825241079227396
+    second: Sandbox_Forest_168
+  - first:
+      213: -2264252395829895475
+    second: Sandbox_Forest_169
+  - first:
+      213: 7184727855254699012
+    second: Sandbox_Forest_170
+  - first:
+      213: 8132408199393634704
+    second: Sandbox_Forest_171
+  - first:
+      213: -4345979364398010066
+    second: Sandbox_Forest_172
+  - first:
+      213: -4950239785620377440
+    second: Sandbox_Forest_173
+  - first:
+      213: 3576132045651183088
+    second: Sandbox_Forest_174
+  - first:
+      213: 2351573910323422788
+    second: Sandbox_Forest_175
+  - first:
+      213: 7453674420820866074
+    second: Sandbox_Forest_176
+  - first:
+      213: -6385347365469111399
+    second: Sandbox_Forest_177
+  - first:
+      213: -5147155138240061559
+    second: Sandbox_Forest_178
+  - first:
+      213: -7847456407751949969
+    second: Sandbox_Forest_179
+  - first:
+      213: -4495065368463211679
+    second: Sandbox_Forest_180
+  - first:
+      213: -5525619860157589992
+    second: Sandbox_Forest_181
+  - first:
+      213: 1281393206248688041
+    second: Sandbox_Forest_182
+  - first:
+      213: 7176646178289757811
+    second: Sandbox_Forest_183
+  - first:
+      213: -6833349648760024988
+    second: Sandbox_Forest_184
+  - first:
+      213: 6769746015892864525
+    second: Sandbox_Forest_185
+  - first:
+      213: 6513404017727876615
+    second: Sandbox_Forest_186
+  - first:
+      213: -6599698251937472012
+    second: Sandbox_Forest_187
+  - first:
+      213: -7394457329842628742
+    second: Sandbox_Forest_188
+  - first:
+      213: 5069235973881572190
+    second: Sandbox_Forest_189
+  - first:
+      213: -6033106821974824842
+    second: Sandbox_Forest_190
+  - first:
+      213: -7550079232451155935
+    second: Sandbox_Forest_191
+  - first:
+      213: 8117532181616341965
+    second: Sandbox_Forest_192
+  - first:
+      213: 4470891830648613792
+    second: Sandbox_Forest_193
+  - first:
+      213: 4190491976344326729
+    second: Sandbox_Forest_194
+  - first:
+      213: -2736678659538478797
+    second: Sandbox_Forest_195
+  - first:
+      213: -1776860344891566047
+    second: Sandbox_Forest_196
+  - first:
+      213: 6126876361979725296
+    second: Sandbox_Forest_197
+  - first:
+      213: 5796846476036513743
+    second: Sandbox_Forest_198
+  - first:
+      213: 8929955260828243708
+    second: Sandbox_Forest_199
+  - first:
+      213: 4650050251118135690
+    second: Sandbox_Forest_200
+  - first:
+      213: 5816229832576653490
+    second: Sandbox_Forest_201
+  - first:
+      213: 1428521743346912733
+    second: Sandbox_Forest_202
+  - first:
+      213: -3266597063286435272
+    second: Sandbox_Forest_203
+  - first:
+      213: 8135707257593666051
+    second: Sandbox_Forest_204
+  - first:
+      213: -4881551287392983649
+    second: Sandbox_Forest_205
+  - first:
+      213: 4686055999451907037
+    second: Sandbox_Forest_206
+  - first:
+      213: 3574091758974170098
+    second: Sandbox_Forest_207
+  - first:
+      213: -6363303321767529228
+    second: Sandbox_Forest_208
+  - first:
+      213: 2237330209945800325
+    second: Sandbox_Forest_209
+  - first:
+      213: -294017165511460664
+    second: Sandbox_Forest_210
+  - first:
+      213: 7847308416509247260
+    second: Sandbox_Forest_211
+  - first:
+      213: 63387831979496280
+    second: Sandbox_Forest_212
+  - first:
+      213: 1700290784034178147
+    second: Sandbox_Forest_213
+  - first:
+      213: -6743502160610337577
+    second: Sandbox_Forest_214
+  - first:
+      213: -206479706013238806
+    second: Sandbox_Forest_215
+  - first:
+      213: -1933406793337648723
+    second: Sandbox_Forest_216
+  - first:
+      213: -4172872285310661083
+    second: Sandbox_Forest_217
+  - first:
+      213: 6022316529156170569
+    second: Sandbox_Forest_218
+  - first:
+      213: 6978481351243029534
+    second: Sandbox_Forest_219
+  - first:
+      213: -2191505771638512102
+    second: Sandbox_Forest_220
+  - first:
+      213: 6740112208164226346
+    second: Sandbox_Forest_221
+  - first:
+      213: 7684119056868776701
+    second: Sandbox_Forest_222
+  - first:
+      213: 5500283731441043224
+    second: Sandbox_Forest_223
+  - first:
+      213: 1120293426843581078
+    second: Sandbox_Forest_224
+  - first:
+      213: -6806011285400861473
+    second: Sandbox_Forest_225
+  - first:
+      213: 1926843992262621967
+    second: Sandbox_Forest_226
+  - first:
+      213: -8493894183965971644
+    second: Sandbox_Forest_227
+  - first:
+      213: 4623568725598819850
+    second: Sandbox_Forest_228
+  - first:
+      213: -4993931068708606164
+    second: Sandbox_Forest_229
+  - first:
+      213: -258341469738486180
+    second: Sandbox_Forest_230
+  - first:
+      213: -1489064649229832475
+    second: Sandbox_Forest_231
+  - first:
+      213: 877163129343932557
+    second: Sandbox_Forest_232
+  - first:
+      213: 4530193452103438366
+    second: Sandbox_Forest_233
+  - first:
+      213: -7274982038428082631
+    second: Sandbox_Forest_234
+  - first:
+      213: 267540734742210505
+    second: Sandbox_Forest_235
+  - first:
+      213: -7383989697424905257
+    second: Sandbox_Forest_236
+  - first:
+      213: -1585446593621178282
+    second: Sandbox_Forest_237
+  - first:
+      213: -4890300704488749
+    second: Sandbox_Forest_238
+  - first:
+      213: -3274859546737290432
+    second: Sandbox_Forest_239
+  - first:
+      213: 2001811496729258400
+    second: Sandbox_Forest_240
+  - first:
+      213: -3171587669150328555
+    second: Sandbox_Forest_241
+  - first:
+      213: -5197574671062030553
+    second: Sandbox_Forest_242
+  - first:
+      213: -7366430561577167023
+    second: Sandbox_Forest_243
+  - first:
+      213: -6049820116898124492
+    second: Sandbox_Forest_244
+  - first:
+      213: -7457715882960270888
+    second: Sandbox_Forest_245
+  - first:
+      213: -8188603477141966476
+    second: Sandbox_Forest_246
+  - first:
+      213: -1307990790870712133
+    second: Sandbox_Forest_247
+  - first:
+      213: -6657942780506297566
+    second: Sandbox_Forest_248
+  - first:
+      213: -4569193460562899242
+    second: Sandbox_Forest_249
+  - first:
+      213: 2512310840101689264
+    second: Sandbox_Forest_250
+  - first:
+      213: -117371827115926213
+    second: Sandbox_Forest_251
+  - first:
+      213: 538955325670472349
+    second: Sandbox_Forest_252
+  - first:
+      213: 1732142517876475757
+    second: Sandbox_Forest_253
+  - first:
+      213: 3860558471149809009
+    second: Sandbox_Forest_254
+  - first:
+      213: 6697421279619893923
+    second: Sandbox_Forest_255
+  - first:
+      213: -8453929329273833976
+    second: Sandbox_Forest_256
+  - first:
+      213: -7382447879553949474
+    second: Sandbox_Forest_257
+  - first:
+      213: 6403115593858185871
+    second: Sandbox_Forest_258
+  - first:
+      213: 3604129638365724699
+    second: Sandbox_Forest_259
+  - first:
+      213: 5813977132535837834
+    second: Sandbox_Forest_260
+  - first:
+      213: 7514831527119778065
+    second: Sandbox_Forest_261
+  - first:
+      213: -95394337834985605
+    second: Sandbox_Forest_262
+  - first:
+      213: -4427491689696206618
+    second: Sandbox_Forest_263
+  - first:
+      213: 2305418427149800611
+    second: Sandbox_Forest_264
+  - first:
+      213: 1710660868230312007
+    second: Sandbox_Forest_265
+  - first:
+      213: 6836517042364958091
+    second: Sandbox_Forest_266
+  - first:
+      213: 4764763225453628068
+    second: Sandbox_Forest_267
+  - first:
+      213: 2818817409448294318
+    second: Sandbox_Forest_268
+  - first:
+      213: 7046831782422566210
+    second: Sandbox_Forest_269
+  - first:
+      213: 1317628476724901782
+    second: Sandbox_Forest_270
+  - first:
+      213: -2530814541276691965
+    second: Sandbox_Forest_271
+  - first:
+      213: 8247895420272421228
+    second: Sandbox_Forest_272
+  - first:
+      213: -1100647131647063941
+    second: Sandbox_Forest_273
+  - first:
+      213: -8968690459951095237
+    second: Sandbox_Forest_274
+  - first:
+      213: -5021615071178111136
+    second: Sandbox_Forest_275
+  - first:
+      213: 667616996841628678
+    second: Sandbox_Forest_276
+  - first:
+      213: -6745615996632437159
+    second: Sandbox_Forest_277
+  - first:
+      213: 6263744217996362504
+    second: Sandbox_Forest_278
+  - first:
+      213: 339992782263355226
+    second: Sandbox_Forest_279
+  - first:
+      213: -4964392002590642147
+    second: Sandbox_Forest_280
+  - first:
+      213: -553589870856066859
+    second: Sandbox_Forest_281
+  - first:
+      213: -7778473834692661840
+    second: Sandbox_Forest_282
+  - first:
+      213: -5100157521720114747
+    second: Sandbox_Forest_283
+  - first:
+      213: 6905709703416863147
+    second: Sandbox_Forest_284
+  - first:
+      213: 4753140365388724877
+    second: Sandbox_Forest_285
+  - first:
+      213: -7434197770279326217
+    second: Sandbox_Forest_286
+  - first:
+      213: -8207889281797202945
+    second: Sandbox_Forest_287
+  - first:
+      213: -8655779539328508995
+    second: Sandbox_Forest_288
+  - first:
+      213: 5616604199932775591
+    second: Sandbox_Forest_289
+  - first:
+      213: -7552632151411001745
+    second: Sandbox_Forest_290
+  - first:
+      213: -8841963635622827479
+    second: Sandbox_Forest_291
+  - first:
+      213: 7548256867013379142
+    second: Sandbox_Forest_292
+  - first:
+      213: -7864786950475152224
+    second: Sandbox_Forest_293
+  - first:
+      213: 5806560227649857778
+    second: Sandbox_Forest_294
+  - first:
+      213: -2658237374729130638
+    second: Sandbox_Forest_295
+  - first:
+      213: 7343701496089837497
+    second: Sandbox_Forest_296
+  - first:
+      213: 7218321188367906061
+    second: Sandbox_Forest_297
+  - first:
+      213: 1597758634174861868
+    second: Sandbox_Forest_298
+  - first:
+      213: -6047677403818248685
+    second: Sandbox_Forest_299
+  - first:
+      213: 2811980790856937140
+    second: Sandbox_Forest_300
+  - first:
+      213: 4047603338213301217
+    second: Sandbox_Forest_301
+  - first:
+      213: -2375503635068054447
+    second: Sandbox_Forest_302
+  - first:
+      213: 505520941655211561
+    second: Sandbox_Forest_303
+  - first:
+      213: -9170060622871739716
+    second: Sandbox_Forest_304
+  - first:
+      213: -130999940861026803
+    second: Sandbox_Forest_305
+  - first:
+      213: 3124642365114015403
+    second: Sandbox_Forest_306
+  - first:
+      213: -5952918388411949909
+    second: Sandbox_Forest_307
+  - first:
+      213: 1828015544486453817
+    second: Sandbox_Forest_308
+  - first:
+      213: 7692732053264086452
+    second: Sandbox_Forest_309
+  - first:
+      213: -1799998352943495454
+    second: Sandbox_Forest_310
+  - first:
+      213: -6026447870448935014
+    second: Sandbox_Forest_311
+  - first:
+      213: -2095447842253768858
+    second: Sandbox_Forest_312
+  - first:
+      213: -7132941394249582882
+    second: Sandbox_Forest_313
+  - first:
+      213: -8749208905255714416
+    second: Sandbox_Forest_314
+  - first:
+      213: -6227712913846257061
+    second: Sandbox_Forest_315
+  - first:
+      213: -445620098743880699
+    second: Sandbox_Forest_316
+  - first:
+      213: 2273874210258917275
+    second: Sandbox_Forest_317
+  - first:
+      213: -2524825830535819957
+    second: Sandbox_Forest_318
+  - first:
+      213: 5952944488067694108
+    second: Sandbox_Forest_319
+  - first:
+      213: -533201338574263867
+    second: Sandbox_Forest_320
+  - first:
+      213: -5339458391351710678
+    second: Sandbox_Forest_321
+  - first:
+      213: -7847052822036632452
+    second: Sandbox_Forest_322
+  - first:
+      213: -6728118935658067979
+    second: Sandbox_Forest_323
+  - first:
+      213: 1621118855919976902
+    second: Sandbox_Forest_324
+  - first:
+      213: -8435605977155477010
+    second: Sandbox_Forest_325
+  - first:
+      213: 2550951154654442154
+    second: Sandbox_Forest_326
+  - first:
+      213: -6147784523092961961
+    second: Sandbox_Forest_327
+  - first:
+      213: -861653684649762835
+    second: Sandbox_Forest_328
+  - first:
+      213: 7150245920530532692
+    second: Sandbox_Forest_329
+  - first:
+      213: 4986831018770118254
+    second: Sandbox_Forest_330
+  - first:
+      213: -5326166745274724166
+    second: Sandbox_Forest_331
+  - first:
+      213: -5511675723127122578
+    second: Sandbox_Forest_332
+  - first:
+      213: 2300313390045508530
+    second: Sandbox_Forest_333
+  - first:
+      213: -6429815259408379839
+    second: Sandbox_Forest_334
+  - first:
+      213: 2064786311202688379
+    second: Sandbox_Forest_335
+  - first:
+      213: -1442730603299921783
+    second: Sandbox_Forest_336
+  - first:
+      213: -1710592912769716153
+    second: Sandbox_Forest_337
+  - first:
+      213: 3767500937377867586
+    second: Sandbox_Forest_338
+  - first:
+      213: -112369890083813566
+    second: Sandbox_Forest_339
+  - first:
+      213: -5639158631247027717
+    second: Sandbox_Forest_340
+  - first:
+      213: -51279035937175909
+    second: Sandbox_Forest_341
+  - first:
+      213: -8151400614662265246
+    second: Sandbox_Forest_342
+  - first:
+      213: -2594687718862145417
+    second: Sandbox_Forest_343
+  - first:
+      213: 2149144304825423663
+    second: Sandbox_Forest_344
+  - first:
+      213: -6709792504564898554
+    second: Sandbox_Forest_345
+  - first:
+      213: 5372778152394663123
+    second: Sandbox_Forest_346
+  - first:
+      213: -2358783773177040446
+    second: Sandbox_Forest_347
+  - first:
+      213: 3919335472212775759
+    second: Sandbox_Forest_348
+  - first:
+      213: 4461534722411854021
+    second: Sandbox_Forest_349
+  - first:
+      213: -4710217637701995260
+    second: Sandbox_Forest_350
+  - first:
+      213: -4403414729137765966
+    second: Sandbox_Forest_351
+  - first:
+      213: -6193893231285183885
+    second: Sandbox_Forest_352
+  - first:
+      213: -1698580255615393569
+    second: Sandbox_Forest_353
+  - first:
+      213: -8081672755580410189
+    second: Sandbox_Forest_354
+  - first:
+      213: -8586614292994029754
+    second: Sandbox_Forest_355
+  - first:
+      213: -171457779851034445
+    second: Sandbox_Forest_356
+  - first:
+      213: -8000401779631191281
+    second: Sandbox_Forest_357
+  - first:
+      213: -8557902178322001005
+    second: Sandbox_Forest_358
+  - first:
+      213: -5266973632103548338
+    second: Sandbox_Forest_359
+  - first:
+      213: 8191866473017019220
+    second: Sandbox_Forest_360
+  - first:
+      213: -9171851158113618949
+    second: Sandbox_Forest_361
+  - first:
+      213: -5119183561009402393
+    second: Sandbox_Forest_362
+  - first:
+      213: 4111146514481450742
+    second: Sandbox_Forest_363
+  - first:
+      213: -6903236974565245427
+    second: Sandbox_Forest_364
+  - first:
+      213: 3072994584694383458
+    second: Sandbox_Forest_365
+  - first:
+      213: 1756028559484745749
+    second: Sandbox_Forest_366
+  - first:
+      213: -4663703896615533009
+    second: Sandbox_Forest_367
+  - first:
+      213: -4405296402239463443
+    second: Sandbox_Forest_368
+  - first:
+      213: -2610071183661423571
+    second: Sandbox_Forest_369
+  - first:
+      213: -1062071659489973869
+    second: Sandbox_Forest_370
+  - first:
+      213: 1927958362967271467
+    second: Sandbox_Forest_371
+  - first:
+      213: -3660464241019676486
+    second: Sandbox_Forest_372
+  - first:
+      213: -6575233482344254245
+    second: Sandbox_Forest_373
+  - first:
+      213: -8397885153225812189
+    second: Sandbox_Forest_374
+  - first:
+      213: 6203270888499901524
+    second: Sandbox_Forest_375
+  - first:
+      213: -1037381855643719706
+    second: Sandbox_Forest_376
+  - first:
+      213: 4799968396867041077
+    second: Sandbox_Forest_377
+  - first:
+      213: -5703019355521482619
+    second: Sandbox_Forest_378
+  - first:
+      213: 2011262495545459356
+    second: Sandbox_Forest_379
+  - first:
+      213: -4455338561262937674
+    second: Sandbox_Forest_380
+  - first:
+      213: 2936299798469645436
+    second: Sandbox_Forest_381
+  - first:
+      213: 5460574986008644036
+    second: Sandbox_Forest_382
+  - first:
+      213: 5255994155511547797
+    second: Sandbox_Forest_383
+  - first:
+      213: -5194914415215080672
+    second: Sandbox_Forest_384
+  - first:
+      213: 2177383066722926256
+    second: Sandbox_Forest_385
+  - first:
+      213: 344051148759104352
+    second: Sandbox_Forest_386
+  - first:
+      213: 9020865376102160510
+    second: Sandbox_Forest_387
+  - first:
+      213: 9147978047660228338
+    second: Sandbox_Forest_388
+  - first:
+      213: 7875139056511296618
+    second: Sandbox_Forest_389
+  - first:
+      213: -1219468671057281599
+    second: Sandbox_Forest_390
+  - first:
+      213: -1902130167686204620
+    second: Sandbox_Forest_391
+  - first:
+      213: 5659981212749901074
+    second: Sandbox_Forest_392
+  - first:
+      213: -4395515088966304773
+    second: Sandbox_Forest_393
+  - first:
+      213: -6523614833973368215
+    second: Sandbox_Forest_394
+  - first:
+      213: -3716021917691349149
+    second: Sandbox_Forest_395
+  - first:
+      213: -1381608414022831963
+    second: Sandbox_Forest_396
+  - first:
+      213: 3291705359312746302
+    second: Sandbox_Forest_397
+  - first:
+      213: -1016924157831038954
+    second: Sandbox_Forest_398
+  - first:
+      213: -5008307666176078622
+    second: Sandbox_Forest_399
+  - first:
+      213: 2565544049339226103
+    second: Sandbox_Forest_400
+  - first:
+      213: -1433939377780192937
+    second: Sandbox_Forest_401
+  - first:
+      213: -8368675568257118563
+    second: Sandbox_Forest_402
+  - first:
+      213: 2388397091323562233
+    second: Sandbox_Forest_403
+  - first:
+      213: 5329517195170914728
+    second: Sandbox_Forest_404
+  - first:
+      213: -2839256901874566192
+    second: Sandbox_Forest_405
+  - first:
+      213: 3170711013052390817
+    second: Sandbox_Forest_406
+  - first:
+      213: 1909310718132148507
+    second: Sandbox_Forest_407
+  - first:
+      213: -8220663917696926058
+    second: Sandbox_Forest_408
+  - first:
+      213: 7672923495920026328
+    second: Sandbox_Forest_409
+  - first:
+      213: -2560840618860532006
+    second: Sandbox_Forest_410
+  - first:
+      213: -2281029262481254379
+    second: Sandbox_Forest_411
+  - first:
+      213: 400666384226527269
+    second: Sandbox_Forest_412
+  - first:
+      213: 5052875497066512075
+    second: Sandbox_Forest_413
+  - first:
+      213: 2186744759709735091
+    second: Sandbox_Forest_414
+  - first:
+      213: -4088754686790016913
+    second: Sandbox_Forest_415
+  - first:
+      213: -2339838483749581236
+    second: Sandbox_Forest_416
+  - first:
+      213: -1168623946201747762
+    second: Sandbox_Forest_417
+  - first:
+      213: 5817072874431402496
+    second: Sandbox_Forest_418
+  - first:
+      213: -684583542903842868
+    second: Sandbox_Forest_419
+  - first:
+      213: -9095688191475424218
+    second: Sandbox_Forest_420
+  - first:
+      213: -7695413468915372004
+    second: Sandbox_Forest_421
+  - first:
+      213: 4681729330023481831
+    second: Sandbox_Forest_422
+  - first:
+      213: -7267056730212565701
+    second: Sandbox_Forest_423
+  - first:
+      213: 1925175345211983065
+    second: Sandbox_Forest_424
+  - first:
+      213: 7809698329474615075
+    second: Sandbox_Forest_425
+  - first:
+      213: 8592332591408518984
+    second: Sandbox_Forest_426
+  - first:
+      213: 5499587147420884471
+    second: Sandbox_Forest_427
+  - first:
+      213: 1882384759179929359
+    second: Sandbox_Forest_428
+  - first:
+      213: -6741722497099618476
+    second: Sandbox_Forest_429
+  - first:
+      213: 303307186069741757
+    second: Sandbox_Forest_430
+  - first:
+      213: 2151098963949610129
+    second: Sandbox_Forest_431
+  - first:
+      213: 2035460017155787043
+    second: Sandbox_Forest_432
+  - first:
+      213: -3728574862544023625
+    second: Sandbox_Forest_433
+  - first:
+      213: -7481522109902695680
+    second: Sandbox_Forest_434
+  - first:
+      213: -2469646463262935975
+    second: Sandbox_Forest_435
+  - first:
+      213: 8423565756182474552
+    second: Sandbox_Forest_436
+  - first:
+      213: -6551238942995221884
+    second: Sandbox_Forest_437
+  - first:
+      213: -5715401327471358327
+    second: Sandbox_Forest_438
+  - first:
+      213: 675657004094183666
+    second: Sandbox_Forest_439
+  - first:
+      213: 8099900160825935770
+    second: Sandbox_Forest_440
+  - first:
+      213: -417106081258925610
+    second: Sandbox_Forest_441
+  - first:
+      213: 1528129236860548261
+    second: Sandbox_Forest_442
+  - first:
+      213: 1337668309046494424
+    second: Sandbox_Forest_443
+  - first:
+      213: 7450099054797487878
+    second: Sandbox_Forest_444
+  - first:
+      213: 1955799541186794600
+    second: Sandbox_Forest_445
+  - first:
+      213: 6769122507873847612
+    second: Sandbox_Forest_446
+  - first:
+      213: -1160528003640156879
+    second: Sandbox_Forest_447
+  - first:
+      213: 4117162013895512477
+    second: Sandbox_Forest_448
+  - first:
+      213: -5931871842682837987
+    second: Sandbox_Forest_449
+  - first:
+      213: 5232256455965048175
+    second: Sandbox_Forest_450
+  - first:
+      213: 1033793909008288878
+    second: Sandbox_Forest_451
+  - first:
+      213: -3110165596344213
+    second: Sandbox_Forest_452
+  - first:
+      213: 5455582202039023786
+    second: Sandbox_Forest_453
+  - first:
+      213: -7245676831745285260
+    second: Sandbox_Forest_454
+  - first:
+      213: -2714722270181157867
+    second: Sandbox_Forest_455
+  - first:
+      213: -9070816487310466351
+    second: Sandbox_Forest_456
+  - first:
+      213: -422651459460978392
+    second: Sandbox_Forest_457
+  - first:
+      213: -5386829504391942522
+    second: Sandbox_Forest_458
+  - first:
+      213: -8509347172699163771
+    second: Sandbox_Forest_459
+  - first:
+      213: -1771187974689645961
+    second: Sandbox_Forest_460
+  - first:
+      213: 8248873588517139133
+    second: Sandbox_Forest_461
+  - first:
+      213: -1765033009648033603
+    second: Sandbox_Forest_462
+  - first:
+      213: 5492954882834976552
+    second: Sandbox_Forest_463
+  - first:
+      213: 7222200015273754559
+    second: Sandbox_Forest_464
+  - first:
+      213: -5726873024681931086
+    second: Sandbox_Forest_465
+  - first:
+      213: -8942333997725911683
+    second: Sandbox_Forest_466
+  - first:
+      213: 4889096795869254546
+    second: Sandbox_Forest_467
+  - first:
+      213: -1601267358488035027
+    second: Sandbox_Forest_468
+  - first:
+      213: 7799332916294619202
+    second: Sandbox_Forest_469
+  - first:
+      213: 3938421386773110103
+    second: Sandbox_Forest_470
+  - first:
+      213: -4194782935438997126
+    second: Sandbox_Forest_471
+  - first:
+      213: -7106714312474237601
+    second: Sandbox_Forest_472
+  - first:
+      213: -1947626317676545123
+    second: Sandbox_Forest_473
+  - first:
+      213: 368222387975562592
+    second: Sandbox_Forest_474
+  - first:
+      213: -6696949335060784530
+    second: Sandbox_Forest_475
+  - first:
+      213: -1293399072546892344
+    second: Sandbox_Forest_476
+  - first:
+      213: -4605498375924996515
+    second: Sandbox_Forest_477
+  - first:
+      213: -7375682943447855963
+    second: Sandbox_Forest_478
+  - first:
+      213: 6121433601943215323
+    second: Sandbox_Forest_479
+  - first:
+      213: 5405931605775132160
+    second: Sandbox_Forest_480
+  - first:
+      213: -7925081253289371770
+    second: Sandbox_Forest_481
+  - first:
+      213: 4052279044571654634
+    second: Sandbox_Forest_482
+  - first:
+      213: 6906441383291803374
+    second: Sandbox_Forest_483
+  - first:
+      213: 3576285594108888981
+    second: Sandbox_Forest_484
+  - first:
+      213: 381998054104977645
+    second: Sandbox_Forest_485
+  - first:
+      213: 3263063467655650049
+    second: Sandbox_Forest_486
+  - first:
+      213: 5024785943885741361
+    second: Sandbox_Forest_487
+  - first:
+      213: 7251703115559814524
+    second: Sandbox_Forest_488
+  - first:
+      213: -1267667726177699808
+    second: Sandbox_Forest_489
+  - first:
+      213: 7668805872713754758
+    second: Sandbox_Forest_490
+  - first:
+      213: 8719509862671924199
+    second: Sandbox_Forest_491
+  - first:
+      213: -713477858042389547
+    second: Sandbox_Forest_492
+  - first:
+      213: 7076688457805599360
+    second: Sandbox_Forest_493
+  - first:
+      213: -6286904165379377018
+    second: Sandbox_Forest_494
+  - first:
+      213: 3801774477125111069
+    second: Sandbox_Forest_495
+  - first:
+      213: 210235912104847859
+    second: Sandbox_Forest_496
+  - first:
+      213: 1812985283588191332
+    second: Sandbox_Forest_497
+  - first:
+      213: -202132318832127178
+    second: Sandbox_Forest_498
+  - first:
+      213: 7530431963123214918
+    second: Sandbox_Forest_499
+  - first:
+      213: 6860836348129577004
+    second: Sandbox_Forest_500
+  - first:
+      213: -4505307804692490815
+    second: Sandbox_Forest_501
+  - first:
+      213: 8019247197970862957
+    second: Sandbox_Forest_502
+  - first:
+      213: 1904123837961808539
+    second: Sandbox_Forest_503
+  - first:
+      213: 2557564362077355685
+    second: Sandbox_Forest_504
+  - first:
+      213: 2853145970429119540
+    second: Sandbox_Forest_505
+  - first:
+      213: -2246793236152455168
+    second: Sandbox_Forest_506
+  - first:
+      213: 3787080065266550459
+    second: Sandbox_Forest_507
+  - first:
+      213: 117064745384513507
+    second: Sandbox_Forest_508
+  - first:
+      213: -4113425677712510050
+    second: Sandbox_Forest_509
+  - first:
+      213: -3842388460846972418
+    second: Sandbox_Forest_510
+  - first:
+      213: -4802342141617667800
+    second: Sandbox_Forest_511
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sandbox_Forest_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e63d7995e0f225d0800000000000000
+      internalID: -3088641525509441816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957e7e9ec49bd950800000000000000
+      internalID: 6474932504418481558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002592636ddf28a0800000000000000
+      internalID: -6327595532506816503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb32bf188047bf760800000000000000
+      internalID: 7492709984950231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb80dc21ec7bbf0800000000000000
+      internalID: -308551469306954097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7568aaf26802ab20800000000000000
+      internalID: 3144084711063184763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afbb0d65bf6f4840800000000000000
+      internalID: 5210506118900203427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1b6418d1e256e0800000000000000
+      internalID: -1850168178724102353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19e54aa824a91fb0800000000000000
+      internalID: -4676526243485193956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806b6022371ad390800000000000000
+      internalID: -7792890701151510394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817093e4cf6d69b20800000000000000
+      internalID: 3140934169269962520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860980daabbbc950800000000000000
+      internalID: 6470471631965324942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e330bacd915b7140800000000000000
+      internalID: 4718454772752987108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952633d93ff713de0800000000000000
+      internalID: -1355161328570637735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a0cf085299f010800000000000000
+      internalID: 1223169680726862135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704e2915748f1680800000000000000
+      internalID: -8782155109880676229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1037b8997702e0c0800000000000000
+      internalID: -4548064454856200161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e64298e824c42e0800000000000000
+      internalID: -2140262542954172875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed97d1461a237500800000000000000
+      internalID: 392703867593661928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80c12647bb60ed0800000000000000
+      internalID: -2448063238892681029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f5a0af07729aea0800000000000000
+      internalID: -5861110073861185735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8fc2fb937ec810800000000000000
+      internalID: 1787493215743479635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38020a923418fd000800000000000000
+      internalID: 62911045267628163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639664bae144ab30800000000000000
+      internalID: 4297632420723069802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 192
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f64f17129cf3ef0800000000000000
+      internalID: -126161119060136064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d6055fb24a8600800000000000000
+      internalID: 471262500546336225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6097a69df48c79e0800000000000000
+      internalID: -1622275541071064978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc674b64029df1650800000000000000
+      internalID: 6205917544188245711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7ec746871fafe0800000000000000
+      internalID: -1175695112222638881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36862c64cacc48c0800000000000000
+      internalID: -4013610222917089734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac8c5c339462c80800000000000000
+      internalID: -8347904372574205240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c25d7a7ec8133ca0800000000000000
+      internalID: -6038455400276340026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f929d048a67f60800000000000000
+      internalID: 8031791981936636037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b882269c6514790800000000000000
+      internalID: -7547656077561001198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bea31666518c90800000000000000
+      internalID: -7169354135380249034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 192
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757ba95a91042ec0800000000000000
+      internalID: -3592744840293812878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eef2d9688fa4ec0800000000000000
+      internalID: -3581777296573338014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f998b059eff0f570800000000000000
+      internalID: 8498573874394864112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda894389db0c910800000000000000
+      internalID: 1855691507891744196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de7cdd911cb72080800000000000000
+      internalID: -9212187728914121003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7fec8baeb0ec00800000000000000
+      internalID: 927951167251512827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ba2d3db1ef6ad0800000000000000
+      internalID: -2706696648135101349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435474b588d1b1920800000000000000
+      internalID: 2961993651410388276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b292ec44db744e20800000000000000
+      internalID: 3333925775914209977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f06b43ca642380800000000000000
+      internalID: -8996948768563596424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2212e093067cbb0800000000000000
+      internalID: -4915854670085152024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2cc6a54487b1c50800000000000000
+      internalID: 6637030710830744225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165ebc025b3aa990800000000000000
+      internalID: -7374016216278608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 209
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068be2c017cef4c80800000000000000
+      internalID: -8336184414959650720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb51df27dbdf74e0800000000000000
+      internalID: -1981623593753027588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 291
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352a8b195ecdccf0800000000000000
+      internalID: -230301123816577735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09c4a53af192b70800000000000000
+      internalID: 8874659327165370533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 203
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca952fd352b651a0800000000000000
+      internalID: -6821068512310224182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 254
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09972b42b63e9bfe0800000000000000
+      internalID: -1172656178636621424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 387
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4c4e340e6916c0800000000000000
+      internalID: -4172182615277941779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 380
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bec3b1d2621acc0800000000000000
+      internalID: -3701635443549476082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox_Forest_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 423
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0daf93e5baf70c0800000000000000
+      internalID: -4575750275197120331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
